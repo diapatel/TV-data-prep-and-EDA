@@ -1,0 +1,1021 @@
+,price,rating,screen_size,brand,tv_size,tv_type,resolution,pixels,hd,is_smart,led_type,resolution_type,screen_pixels,has_wifi,has_ethernet,num_speakers,speaker_output,processor_core,processor_ram,processor_inbuilt_storage,is_ultra_slim,viewing_angle,num_hdmi_ports,num_usb_ports
+0,14999,53,32.0,acer,32in, QLED TV,1366x768pixels,missing,HD,1,QLED,missing,1366x768,1.0,1.0,2,30.0,4.0,1.5,16,1.0,178.0,2.0,2.0
+1,9999,53,43.0,xiaomi,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,16.0,,1,8,0.0,178.0,2.0,2.0
+2,31990,65,43.0,lg,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,3.0,2.0
+3,38900,63,43.0,samsung,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,2.0,1.0
+4,16249,48,32.0,lg,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,16.0,,,,0.0,178.0,3.0,2.0
+5,33950,67,43.0,lg,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+6,23999,72,43.0,xiaomi,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,2,16,0.0,178.0,3.0,2.0
+7,6699,41,32.0,redmi,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,20.0,4.0,1,8,,,1.0,2.0
+8,9999,49,32.0,xiaomi,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,1,8,0.0,178.0,3.0,2.0
+9,61990,68,55.0,samsung,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,1.0
+10,15715,46,32.0,lg,32in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,0.0,2,6.0,,,,,,3.0,2.0
+11,64490,72,55.0,sony,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,10.0,,,16,,,3.0,2.0
+12,14990,40,32.0,samsung,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,20.0,,,,,,2.0,1.0
+13,44990,67,55.0,lg,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,3.0,2.0
+14,40990,69,65.0,xiaomi,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,4,,,3,32,0.0,178.0,3.0,2.0
+15,26999,64,43.0,redmi,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+16,33490,64,43.0,samsung,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,20.0,,,,0.0,178.0,3.0,1.0
+17,43290,73,55.0,tcl,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,,56.0,4.0,2,16,1.0,,3.0,1.0
+18,46540,64,43.0,sony,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,1.0
+19,12999,50,32.0,xiaomi,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,4.0,1.5,8,0.0,178.0,2.0,2.0
+20,28999,72,43.0,acer,43in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,30.0,4.0,2,16,0.0,178.0,3.0,2.0
+21,42990,70,43.0,lg,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,1.0,178.0,3.0,2.0
+22,11880,41,32.0,haier,32in, LED TV,missing,1366x768pixels,HD,1,LED,missing,1366x768,,,2,10.0,,,,,,3.0,2.0
+23,8800000,79,292.0,samsung,292in, MicroLED TV,8K Resolution, 7680x4320pixels,Ultra HD,1,MicroLED,8K Resolution,7680x4320,1.0,0.0,,,,,,1.0,178.0,,
+24,30990,68,43.0,haier,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,32,,,4.0,2.0
+25,43990,76,55.0,tcl,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,30.0,4.0,2,16,0.0,178.0,3.0,1.0
+26,12499,49,32.0,xiaomi,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,4.0,1,8,0.0,178.0,2.0,2.0
+27,107340,75,65.0,sony,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,10.0,,,32,,,4.0,2.0
+28,83590,72,55.0,sony,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,10.0,,,32,,,4.0,2.0
+29,44230,67,43.0,samsung,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+30,16870,38,32.0,samsung,32in, LED TV,1366x768pixels,missing,missing,1,LED,missing,1366x768,1.0,0.0,2,20.0,,,,,,2.0,1.0
+31,12890,53,32.0,oneplus,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,24.0,,1,8,0.0,178.0,2.0,2.0
+32,17999,65,50.0,xiaomi,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,1.5,8,0.0,178.0,3.0,2.0
+33,13990,38,32.0,samsung,32in,missing,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,20.0,,,,0.0,178.0,2.0,1.0
+34,30990,68,55.0,xiaomi,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,4,,,3,32,0.0,178.0,3.0,2.0
+35,57390,73,55.0,lg,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,1.0,178.0,3.0,2.0
+36,120999,83,90.0,xiaomi,90in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,4,64,0.0,178.0,3.0,2.0
+37,49390,68,43.0,sony,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,10.0,,,16,,,3.0,2.0
+38,65000,70,55.0,samsung,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+39,72990,70,55.0,samsung,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,3.0,2.0
+40,28200,46,43.0,samsung,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,0.0,2,20.0,,,,,,2.0,1.0
+41,13990,54,32.0,tcl,32in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,24.0,,1.5,,0.0,178.0,2.0,1.0
+42,27999,74,50.0,acer,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,4.0,2,16,0.0,178.0,3.0,3.0
+43,20490,43,32.0,panasonic,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,,,,,2.0,2.0
+44,12400,53,32.0,tcl,32in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,24.0,4.0,1,8,0.0,178.0,2.0,1.0
+45,31999,72,43.0,xiaomi,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,2,16,0.0,178.0,3.0,2.0
+46,13990,43,32.0,haier,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,10.0,,,,,,3.0,1.0
+47,11999,51,32.0,redmi,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,1,8,0.0,178.0,2.0,2.0
+48,11490,45,32.0,tcl,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,24.0,,,,,,2.0,2.0
+49,54990,76,86.0,xiaomi,86in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,16,0.0,178.0,3.0,2.0
+50,25999,70,43.0,xiaomi,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,4.0,2,8,0.0,178.0,3.0,2.0
+51,50390,67,55.0,samsung,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,1.0
+52,10999,50,32.0,acer,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,24.0,4.0,1.5,8,0.0,178.0,2.0,2.0
+53,23999,73,43.0,acer,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,4.0,2,16,0.0,178.0,3.0,3.0
+54,12999,53,32.0,acer,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,30.0,4.0,1.5,16,0.0,178.0,2.0,2.0
+55,42990,66,43.0,sony,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,1.0
+56,32990,64,43.0,samsung,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,1.0,178.0,3.0,1.0
+57,48490,66,50.0,samsung,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,1.0
+58,15980,40,32.0,samsung,32in, LED TV,1366x728pixels,missing,HD,1,LED,missing,1366x728,1.0,0.0,2,20.0,,,,,,2.0,1.0
+59,99999,45,27.0,"16""9 Ratio",lg,27in,missing,Wifi,27.0,1,0,missing,missing,0.0,0.0,,,,,,0.0,178.0,2.0,2.0
+60,35990,62,43.0,samsung,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,3.0,1.0
+61,9359,46,43.0,redmi,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,0.0,2,20.0,4.0,1,8,,,2.0,2.0
+62,9999,45,32.0,infinix,32in, QLED TV,1366x768pixels,missing,HD,1,QLED,missing,1366x768,1.0,1.0,2,20.0,4.0,,,,,3.0,2.0
+63,50999,70,55.0,hisense,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,40.0,,3,8,1.0,,4.0,1.0
+64,164700,76,65.0,sony,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,,,,,4.0,2.0
+65,47999,71,65.0,motorola,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,,0.0,178.0,3.0,2.0
+66,37990,67,43.0,panasonic,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,16,1.0,,3.0,2.0
+67,33999,77,55.0,infinix,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,36.0,,2,16,0.0,178.0,3.0,2.0
+68,39999,76,55.0,vu,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,5,104.0,,2,16,0.0,178.0,3.0,2.0
+69,28990,65,43.0,lg,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+70,44990,69,55.0,samsung,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,20.0,,,,0.0,178.0,3.0,1.0
+71,13999,55,32.0,realme,32in, LED TV,Full HD, 1080x1920pixels,Full HD,1,LED,missing,1080x1920,1.0,0.0,4,24.0,,1,8,0.0,178.0,3.0,2.0
+72,13490,45,32.0,lg,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,10.0,4.0,1,4,0.0,180.0,2.0,1.0
+73,14999,49,40.0,xiaomi,40in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,4.0,1,8,0.0,178.0,3.0,2.0
+74,69990,68,55.0,samsung,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,3.0,2.0
+75,11499000,88,110.0,samsung,110in, Micro LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,,100.0,,,,,,6.0,3.0
+76,21999,61,43.0,infinix,43in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,4.0,,,,,3.0,2.0
+77,35999,73,50.0,acer,50in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,30.0,4.0,2,16,1.0,178.0,3.0,2.0
+78,44990,65,43.0,lg,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,,35.0,,,,0.0,178.0,3.0,1.0
+79,154900,75,75.0,sony,75in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,10.0,,,32,,,4.0,2.0
+80,27549,71,43.0,tcl,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,,2,16,0.0,178.0,3.0,1.0
+81,37990,73,55.0,tcl,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,2,16,0.0,178.0,3.0,1.0
+82,12999,52,32.0,realme,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,24.0,,1,8,0.0,178.0,3.0,2.0
+83,9999,50,32.0,infinix,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,1,8,0.0,178.0,2.0,2.0
+84,60790,71,50.0,sony,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,10.0,,,16,,,3.0,2.0
+85,26990,48,43.0,samsung,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,,,,0.0,178.0,2.0,1.0
+86,74990,68,55.0,lg,55in, QNED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,20.0,4.0,,,1.0,178.0,4.0,2.0
+87,31999,75,55.0,acer,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,4.0,2,16,0.0,178.0,3.0,3.0
+88,17699,68,55.0,xiaomi,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,1.5,8,0.0,178.0,2.0,2.0
+89,26670,48,32.0,sony,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+90,29999,71,43.0,oneplus,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,,2,8,0.0,178.0,3.0,2.0
+91,6499,47,32.0,huidi,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,4.0,,,0.0,178.0,3.0,2.0
+92,31999,75,55.0,nokia,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,0.0,2,60.0,4.0,2,16,0.0,178.0,3.0,2.0
+93,112990,81,85.0,tcl,85in, QLED TV,8K Resolution, 7680x4320pixels,Ultra HD,1,LED,8K Resolution,7680x4320,1.0,1.0,4,25.0,4.0,,16,0.0,178.0,3.0,2.0
+94,37999,76,65.0,nokia,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,48.0,,2,16,0.0,178.0,3.0,2.0
+95,16490,44,32.0,samsung,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,20.0,,,,0.0,178.0,2.0,1.0
+96,13480,44,32.0,samsung,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,20.0,,,,0.0,178.0,2.0,1.0
+97,5000000,93,98.0,sony,98in, OLED TV,7680x4380pixels,missing,Ultra HD,1,missing,missing,7680x4380,1.0,1.0,,80.0,,,16,,,4.0,3.0
+98,26999,72,43.0,acer,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,76.0,,2,16,0.0,178.0,3.0,2.0
+99,49990,64,50.0,samsung,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,3.0,1.0
+100,87990,66,65.0,samsung,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,20.0,,,,,,3.0,1.0
+101,22999,61,43.0,onida,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,,,,,,3.0,2.0
+102,36990,69,50.0,haier,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,32,,,4.0,2.0
+103,122800,74,55.0,sony,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,,,,,4.0,2.0
+104,40999,75,55.0,acer,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,30.0,4.0,2,16,1.0,178.0,3.0,2.0
+105,188900,81,55.0,sony,55in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,,50.0,,,,,,4.0,2.0
+106,64990,78,65.0,tcl,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,,56.0,4.0,2,16,1.0,178.0,3.0,1.0
+107,54990,76,65.0,tcl,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,,56.0,,2,16,0.0,178.0,3.0,1.0
+108,103900,76,55.0,samsung,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,1.0,178.0,4.0,2.0
+109,31990,71,43.0,tcl,43in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,30.0,4.0,2,16,0.0,178.0,3.0,1.0
+110,87390,76,65.0,sony,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,16,0.0,178.0,3.0,2.0
+111,70290,65,43.0,sony,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,10.0,,,,,,4.0,2.0
+112,46999,75,55.0,xiaomi,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,40.0,,2,16,0.0,178.0,3.0,2.0
+113,23999,65,43.0,vu,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,,50.0,4.0,2,16,,,3.0,2.0
+114,24880,60,43.0,haier,43in, LCD TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,0.0,2,20.0,,,,,,3.0,1.0
+115,37490,74,55.0,sansui,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,16,0.0,178.0,3.0,2.0
+116,29999,72,43.0,vu,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,3,84.0,,2,16,0.0,178.0,3.0,2.0
+117,15499,54,43.0,infinix,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,4.0,1,4,0.0,178.0,2.0,2.0
+118,129990,80,55.0,lg,55in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,4,60.0,,,,1.0,178.0,,3.0
+119,50000,68,55.0,lg,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+120,114990,81,55.0,lg,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,40.0,,,,0.0,178.0,4.0,3.0
+121,14990,53,32.0,xiaomi,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,24.0,4.0,1.5,8,0.0,178.0,2.0,2.0
+122,41990,64,55.0,lg,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,1.0,1.0
+123,8940,51,32.0,karbonn,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,1,8,0.0,178.0,2.0,2.0
+124,8999,47,32.0,infinix,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,4.0,,4,0.0,178.0,3.0,2.0
+125,74690,74,55.0,sony,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,16,0.0,178.0,4.0,2.0
+126,34500,69,50.0,haier,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,,20.0,,,,0.0,178.0,4.0,2.0
+127,15990,49,32.0,haier,32in, LED TV,1366x768pixels,missing,missing,1,LED,missing,1366x768,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+128,29999,74,50.0,nokia,50in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,0.0,2,60.0,4.0,2,16,0.0,178.0,3.0,2.0
+129,59999,80,55.0,tcl,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,3,32,0.0,178.0,3.0,2.0
+130,9990,44,31.5,bush,31.5in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,,,0.0,178.0,2.0,2.0
+131,5999900,98,98.0,samsung,98in, QLED TV,8K Resolution, 7680x4320pixels,Ultra HD,1,QLED,8K Resolution,7680x4320,1.0,1.0,4,40.0,,,,1.0,178.0,4.0,3.0
+132,225999,82,65.0,sony,65in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,,60.0,,,,,,4.0,2.0
+133,46990,66,55.0,panasonic,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,3.0,2.0
+134,155999,80,55.0,sony,55in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,,60.0,,,,,,4.0,2.0
+135,119990,75,42.0,lg,42in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,,40.0,,,,,,4.0,3.0
+136,68990,76,65.0,tcl,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,,56.0,4.0,2,16,0.0,178.0,3.0,1.0
+137,47990,71,55.0,haier,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,2,32,,,4.0,2.0
+138,16550,48,32.0,panasonic,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,0.5,4,0.0,178.0,2.0,1.0
+139,12999,49,32.0,redmi,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,1,8,0.0,179.0,2.0,2.0
+140,12499,52,32.0,motorola,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,4.0,1.5,8,0.0,178.0,3.0,2.0
+141,37999,71,55.0,xiaomi,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,2,8,0.0,178.0,3.0,2.0
+142,52990,72,50.0,lg,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,1.0,178.0,3.0,2.0
+143,71990,71,65.0,lg,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,3.0,2.0
+144,67999,72,65.0,hisense,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,40.0,,3,8,1.0,,4.0,1.0
+145,229999,76,55.0,lg,55in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,,,,,,,,4.0,3.0
+146,32450,69,43.0,tcl,43in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,2,16,1.0,,3.0,1.0
+147,12999,49,32.0,toshiba,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,4.0,,,0.0,178.0,2.0,2.0
+148,62990,70,55.0,sony,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+149,56990,68,50.0,sony,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,1.0
+150,85990,71,65.0,samsung,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,1.0
+151,77890,67,50.0,sony,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,20.0,,,,,,4.0,2.0
+152,34999,74,55.0,vu,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,,50.0,4.0,2,16,0.0,178.0,3.0,2.0
+153,36990,71,58.0,tcl,58in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,,2,16,0.0,178.0,3.0,1.0
+154,6999,47,24.0,thomson,24in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,20.0,,0.5,4,0.0,178.0,2.0,2.0
+155,149990,79,55.0,samsung,55in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,,40.0,,,,,,4.0,2.0
+156,267490,85,65.0,samsung,65in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,,70.0,,,,,,4.0,3.0
+157,99999,84,65.0,oneplus,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,7,70.0,,3,32,1.0,178.0,3.0,2.0
+158,37999,73,55.0,oneplus,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,,2,8,0.0,178.0,3.0,2.0
+159,46450,75,55.0,lloyd,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,24.0,,2,16,0.0,178.0,3.0,2.0
+160,26999,74,43.0,acer,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,60.0,,2,16,0.0,178.0,3.0,2.0
+161,149877,83,55.0,sony,55in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,5,50.0,,,16,0.0,178.0,4.0,2.0
+162,39000,59,43.0,sony,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,,,16,0.0,178.0,3.0,2.0
+163,68990,74,65.0,lg,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,1.5,8,0.0,178.0,3.0,2.0
+164,15990,44,32.0,panasonic,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,,,0.0,178.0,2.0,2.0
+165,8999,47,32.0,infinix,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,4.0,,4,0.0,178.0,3.0,2.0
+166,28990,63,43.0,lg,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,20.0,,1.5,8,0.0,178.0,3.0,1.0
+167,32999,72,50.0,oneplus,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,,2,8,0.0,178.0,3.0,2.0
+168,9999,48,32.0,thomson,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,30.0,4.0,0.5,4,0.0,178.0,3.0,2.0
+169,74690,74,55.0,sony,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,16,0.0,178.0,4.0,2.0
+170,48900,64,43.0,sony,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+171,14990,48,32.0,haier,32in, LED TV,1366x768pixels,missing,missing,1,LED,missing,1366x768,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+172,319990,83,85.0,samsung,85in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+173,22999,54,43.0,xiaomi,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,24.0,4.0,1.5,8,0.0,178.0,2.0,2.0
+174,44899,71,55.0,haier,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,,20.0,,,,0.0,178.0,4.0,2.0
+175,79990,80,55.0,samsung,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,,60.0,,,,0.0,178.0,4.0,2.0
+176,15990,49,32.0,haier,32in, LED TV,1366x768pixels,missing,missing,1,LED,missing,1366x768,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+177,20990,46,32.0,samsung,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,20.0,,,,0.0,178.0,2.0,1.0
+178,18490,46,32.0,samsung,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,20.0,,,,0.0,178.0,2.0,1.0
+179,9499,52,32.0,sansui,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,1,8,0.0,178.0,2.0,2.0
+180,24990,51,43.0,samsung,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,0.0,2,20.0,,,,0.0,178.0,2.0,1.0
+181,16490,44,32.0,samsung,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,20.0,,,,0.0,178.0,2.0,1.0
+182,33999,73,55.0,xiaomi,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,2,16,0.0,178.0,3.0,2.0
+183,10990,50,32.0,realme,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,4,24.0,,1,8,0.0,178.0,3.0,2.0
+184,25999,69,43.0,vu,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,4,40.0,,1.5,8,0.0,178.0,3.0,2.0
+185,80990,73,75.0,xiaomi,75in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,4,,,3,32,0.0,178.0,3.0,2.0
+186,17617,52,32.0,lg,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,4.0,1,4,0.0,178.0,2.0,1.0
+187,5999900,98,98.0,samsung,98in, QLED TV,8K Resolution, 7680x4320pixels,Ultra HD,1,QLED,8K Resolution,7680x4320,1.0,1.0,4,40.0,,,,1.0,178.0,4.0,3.0
+188,7999,44,32.0,iffalcon,32in, LED TV,1366x768pixels,missing,HD,1,missing,missing,1366x768,1.0,1.0,2,16.0,,1,8,0.0,178.0,2.0,1.0
+189,42990,70,55.0,haier,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,32,,,4.0,2.0
+190,46990,66,55.0,panasonic,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,3.0,2.0
+191,34390,63,43.0,panasonic,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,3.0,2.0
+192,199990,81,85.0,tcl,85in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,15.0,,2,16,0.0,178.0,3.0,2.0
+193,39999,74,55.0,acer,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,76.0,,2,16,0.0,178.0,3.0,2.0
+194,7190,32,32.0,croma,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,0.0,1.0,2,20.0,,,,,,2.0,2.0
+195,645999,80,83.0,samsung,83in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,40.0,,,,,,4.0,3.0
+196,510999,80,77.0,samsung,77in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,40.0,,,,,,4.0,3.0
+197,599999,80,83.0,samsung,83in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,40.0,,,,,,4.0,3.0
+198,12499,52,32.0,motorola,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,4.0,1.5,8,0.0,178.0,3.0,2.0
+199,599999,83,98.0,vu,98in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,,204.0,,3,,1.0,,4.0,2.0
+200,48900,64,43.0,sony,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+201,62890,68,55.0,sony,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,20.0,,,16,0.0,178.0,3.0,2.0
+202,14990,48,32.0,haier,32in, LED TV,1366x768pixels,missing,missing,1,LED,missing,1366x768,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+203,319990,83,85.0,samsung,85in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+204,44899,71,55.0,haier,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,,20.0,,,,0.0,178.0,4.0,2.0
+205,15990,49,32.0,haier,32in, LED TV,1366x768pixels,missing,missing,1,LED,missing,1366x768,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+206,19999,55,43.0,xiaomi,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,,1,8,0.0,178.0,2.0,2.0
+207,20999,70,43.0,thomson,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,40.0,,2,8,0.0,178.0,3.0,2.0
+208,30999,72,43.0,xiaomi,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,4.0,2,16,0.0,178.0,3.0,2.0
+209,20990,46,32.0,samsung,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,20.0,,,,0.0,178.0,2.0,1.0
+210,46999,69,55.0,itel,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,20.0,,2,8,0.0,178.0,3.0,2.0
+211,18490,46,32.0,samsung,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,20.0,,,,0.0,178.0,2.0,1.0
+212,9499,52,32.0,sansui,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,1,8,0.0,178.0,2.0,2.0
+213,13490,44,32.0,lg,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,10.0,,,,0.0,178.0,2.0,1.0
+214,14999,46,32.0,oneplus,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,,,0.0,178.0,2.0,2.0
+215,16490,44,32.0,samsung,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,20.0,,,,0.0,178.0,2.0,1.0
+216,33999,73,55.0,xiaomi,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,2,16,0.0,178.0,3.0,2.0
+217,11990,50,32.0,realme,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,4,24.0,,1,8,0.0,178.0,3.0,2.0
+218,80990,73,75.0,xiaomi,75in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,4,,,3,32,0.0,178.0,3.0,2.0
+219,17629,52,32.0,lg,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,4.0,1,4,0.0,178.0,2.0,1.0
+220,9990,44,31.5,bush,31.5in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,,,0.0,178.0,2.0,2.0
+221,5999900,98,98.0,samsung,98in, QLED TV,8K Resolution, 7680x4320pixels,Ultra HD,1,QLED,8K Resolution,7680x4320,1.0,1.0,4,40.0,,,,1.0,178.0,4.0,3.0
+222,7999,44,32.0,iffalcon,32in, LED TV,1366x768pixels,missing,HD,1,missing,missing,1366x768,1.0,1.0,2,16.0,,1,8,0.0,178.0,2.0,1.0
+223,46990,66,55.0,panasonic,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,3.0,2.0
+224,34490,63,43.0,panasonic,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,3.0,2.0
+225,33990,66,55.0,nu,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,30.0,4.0,,,,,3.0,2.0
+226,645999,80,83.0,samsung,83in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,40.0,,,,,,4.0,3.0
+227,510999,80,77.0,samsung,77in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,40.0,,,,,,4.0,3.0
+228,599999,80,83.0,samsung,83in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,40.0,,,,,,4.0,3.0
+229,449999,79,77.0,samsung,77in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,40.0,,,,,,4.0,3.0
+230,39999,74,55.0,acer,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,76.0,,2,16,0.0,178.0,3.0,2.0
+231,7190,32,32.0,croma,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,0.0,1.0,2,20.0,,,,,,2.0,2.0
+232,13999,49,32.0,redmi,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,1,8,0.0,179.0,2.0,2.0
+233,275490,78,75.0,sony,75in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,,,,,4.0,2.0
+234,12499,52,32.0,motorola,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,4.0,1.5,8,0.0,178.0,3.0,2.0
+235,599999,83,98.0,vu,98in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,,204.0,,3,,1.0,,4.0,2.0
+236,136990,70,75.0,samsung,75in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,20.0,,,,,,3.0,1.0
+237,61999,72,65.0,xiaomi,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,2,8,0.0,178.0,3.0,2.0
+238,28999,69,43.0,xiaomi,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,2,8,0.0,178.0,3.0,2.0
+239,52990,72,50.0,lg,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,1.0,178.0,3.0,2.0
+240,22899,62,65.0,redmi,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,1.5,8,,,2.0,2.0
+241,33990,48,43.0,panasonic,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,,,,,,2.0,2.0
+242,21499,54,40.0,xiaomi,40in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,4.0,1.5,8,0.0,178.0,2.0,2.0
+243,23999,54,43.0,xiaomi,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,4.0,1.5,8,0.0,178.0,2.0,2.0
+244,7299,46,32.0,gangnam,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,24.0,4.0,1,8,,,2.0,2.0
+245,8098,47,32.0,marq,32in, LED TV,Full HD, 1920x1080pixels,missing,1,LED,missing,1920x1080,1.0,0.0,2,24.0,4.0,,,0.0,178.0,2.0,2.0
+246,50999,65,65.0,onida,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,,,,,,3.0,2.0
+247,32999,64,54.72,onida,54.72in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,,,,,,3.0,2.0
+248,59990,74,65.0,haier,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,2,32,,,4.0,2.0
+249,31999,66,50.0,vw,50in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,1.5,8,,,3.0,2.0
+250,9999,45,32.0,infinix,32in, QLED TV,1366x768pixels,missing,HD,1,QLED,missing,1366x768,1.0,1.0,2,20.0,4.0,,,,,3.0,2.0
+251,61999,76,65.0,hisense,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,3,60.0,,,,0.0,178.0,3.0,2.0
+252,26499,70,65.0,xiaomi,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,1.5,8,0.0,178.0,2.0,2.0
+253,34199,71,75.0,xiaomi,75in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,1.5,8,0.0,178.0,2.0,2.0
+254,37990,71,50.0,hisense,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,4.0,2,16,,,3.0,2.0
+255,1999999,86,98.0,sony,98in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,4,40.0,,,32,1.0,178.0,4.0,2.0
+256,11999,41,32.0,infinix,32in, QLED TV,1366x768pixels,missing,HD,1,QLED,missing,1366x768,1.0,1.0,2,20.0,,,,,,2.0,1.0
+257,43999,72,55.0,hisense,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,4.0,2,16,,,3.0,2.0
+258,7499,45,32.0,alt,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,,,0.0,178.0,2.0,1.0
+259,16999,59,42.0,kodak,42in, LED TV,Full HD, 1080x1920pixels,Full HD,1,LED,missing,1080x1920,1.0,1.0,2,30.0,,2,16,0.0,178.0,3.0,2.0
+260,11999,47,32.0,motorola,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,1,,0.0,178.0,2.0,2.0
+261,30999,68,55.0,motorola,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,20.0,,2,,0.0,178.0,3.0,2.0
+262,22999,67,43.0,motorola,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,,0.0,178.0,3.0,2.0
+263,165990,78,75.0,samsung,75in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+264,56990,67,43.0,samsung,43in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,3.0,2.0
+265,84999,75,55.0,tcl,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,50.0,4.0,3,,1.0,,4.0,1.0
+266,63990,68,50.0,samsung,50in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,3.0,2.0
+267,1999990,88,97.0,lg,97in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,60.0,,,,,,4.0,3.0
+268,33999,52,55.0,itel,55in,missing,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,24.0,,,,,,2.0,2.0
+269,10999,48,32.0,iffalcon,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,16.0,4.0,1,8,0.0,178.0,2.0,1.0
+270,79999,80,65.0,acer,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,30.0,4.0,2,16,1.0,178.0,3.0,2.0
+271,59999,78,55.0,acer,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,30.0,4.0,2,16,1.0,178.0,3.0,2.0
+272,21999,54,40.0,oneplus,40in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,,1,8,0.0,178.0,2.0,2.0
+273,34999,74,55.0,vu,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,,50.0,4.0,2,16,0.0,178.0,3.0,2.0
+274,310999,73,98.0,tcl,98in, QD-LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,5,60.0,,4,64,,,4.0,4.0
+275,599999,82,77.0,sony,77in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,,,,,,,,4.0,2.0
+276,299999,81,98.0,sony,98in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,,,,,,,,2.0,2.0
+277,6999,47,24.0,thomson,24in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,20.0,,0.5,4,0.0,178.0,2.0,2.0
+278,199990,82,65.0,samsung,65in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,40.0,,,,,,4.0,2.0
+279,252490,85,65.0,samsung,65in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,,70.0,,,,,,4.0,3.0
+280,184990,83,55.0,samsung,55in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,,70.0,,,,,,4.0,3.0
+281,7999,46,32.0,vw,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,4.0,,,0.0,178.0,2.0,2.0
+282,10999,44,32.0,aiwa,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,24.0,,,,,,2.0,2.0
+283,11990,51,32.0,tcl,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,24.0,,1,,0.0,178.0,2.0,1.0
+284,37499,74,55.0,sansui,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,16,0.0,178.0,3.0,2.0
+285,27400,49,43.0,haier,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,0.0,2,20.0,,,,,,3.0,2.0
+286,14999,55,43.0,vw,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,,1,8,0.0,178.0,3.0,2.0
+287,18990,71,55.0,letv,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,3,32,0.0,178.0,2.0,2.0
+288,11900,52,32.0,intex,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,1,8,0.0,178.0,2.0,2.0
+289,5590,35,24.0,croma,24in, LED TV,missing,1366x768pixels,HD,1,LED,missing,1366x768,,,2,16.0,,,,0.0,178.0,2.0,2.0
+290,41999,74,50.0,xiaomi,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,40.0,,2,16,0.0,178.0,3.0,2.0
+291,164490,84,65.0,samsung,65in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,60.0,,,,0.0,178.0,4.0,2.0
+292,31990,71,43.0,lloyd,43in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,16,0.0,178.0,3.0,2.0
+293,15999,71,50.0,letv,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,16.0,,2,16,0.0,178.0,2.0,2.0
+294,37999,71,55.0,iffalcon,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,19.0,4.0,2,16,0.0,178.0,3.0,1.0
+295,25999,63,43.0,compaq,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,,,,0.0,178.0,2.0,2.0
+296,7999,37,32.0,acer,32in, LED TV,missing,1366x768pixels,HD,1,LED,missing,1366x768,,,2,20.0,,,,0.0,178.0,2.0,2.0
+297,76999,77,65.0,hisense,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,3,8,0.0,178.0,2.0,2.0
+298,59899,69,55.0,lg,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,4.0,2.0
+299,140999,80,55.0,lg,55in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,4,60.0,,,,1.0,178.0,,3.0
+300,19999,45,32.0,lg,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,,,0.0,178.0,2.0,2.0
+301,46990,68,50.0,lg,50in, LED TV,4K Resolution, 3840x2160pixels,missing,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,4.0,3.0
+302,48990,69,55.0,samsung,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,8,0.0,178.0,3.0,1.0
+303,152990,83,55.0,sony,55in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,5,50.0,,,16,0.0,178.0,4.0,2.0
+304,56990,76,54.72,lg,54.72in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,1.5,8,0.0,178.0,3.0,2.0
+305,34999,72,50.0,xiaomi,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,4.0,2,8,0.0,178.0,3.0,2.0
+306,39999,72,55.0,xiaomi,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,4.0,2,8,0.0,178.0,3.0,2.0
+307,16999,53,32.0,xiaomi,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,24.0,4.0,1.5,8,0.0,178.0,2.0,2.0
+308,89990,76,55.0,lg,55in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,8,0.0,178.0,3.0,2.0
+309,49970,71,50.0,lg,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+310,47900,70,55.0,lg,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+311,75990,73,48.0,lg,48in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,8,0.0,178.0,3.0,2.0
+312,24999,62,43.0,hisense,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+313,41990,67,55.0,lg,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,20.0,,1.5,8,0.0,178.0,3.0,1.0
+314,28990,63,43.0,lg,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,20.0,,1.5,8,0.0,178.0,3.0,1.0
+315,8999,53,32.0,candy,32in, LED TV,1366x768pixels,missing,missing,1,LED,missing,1366x768,1.0,1.0,2,20.0,,,32,0.0,178.0,3.0,2.0
+316,9999,48,32.0,thomson,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,30.0,4.0,0.5,4,0.0,178.0,3.0,2.0
+317,139699,80,65.0,sony,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,,,0.0,178.0,4.0,2.0
+318,20490,55,32.0,panasonic,32in, LED TV,Full HD, 1920x1080pixels,missing,1,LED,missing,1920x1080,1.0,1.0,2,20.0,,1.5,8,0.0,178.0,2.0,2.0
+319,33990,72,43.0,samsung,43in, LED TV,4K Resolution, 3840x2160pixels,missing,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,16,0.0,178.0,3.0,2.0
+320,54490,73,55.0,lg,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,4.0,3.0
+321,13990,52,32.0,toshiba,32in, LED TV,Full HD, 1920x1080pixels,Full HD,1,missing,missing,1920x1080,1.0,1.0,2,16.0,,1,8,0.0,178.0,2.0,2.0
+322,72499,75,60.0,samsung,60in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+323,57100,74,55.0,panasonic,55in, LED TV,4K Resolution, 3840x2160pixels,missing,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,16,0.0,178.0,3.0,2.0
+324,37690,71,43.0,panasonic,43in, LED TV,4K Resolution, 3840x2160pixels,missing,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,16,0.0,178.0,3.0,2.0
+325,62990,69,43.0,sony,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,16,0.0,178.0,4.0,2.0
+326,84990,72,65.0,sony,65in, LED TV,4K Resolution, 3840x2160pixels,missing,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+327,25990,48,32.0,sony,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+328,62890,68,55.0,sony,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,20.0,,,16,0.0,178.0,3.0,2.0
+329,22801,53,43.0,hisense,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,,1,8,0.0,178.0,2.0,2.0
+330,19990,49,32.0,lg,32in, LED TV,1366x768pixels,missing,missing,1,LED,missing,1366x768,1.0,1.0,2,20.0,,,,0.0,178.0,2.0,1.0
+331,14990,48,32.0,haier,32in, LED TV,1366x768pixels,missing,missing,1,LED,missing,1366x768,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+332,132990,79,65.0,samsung,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,0.0,2,40.0,,2.5,8,0.0,178.0,4.0,2.0
+333,44899,71,55.0,haier,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,,20.0,,,,0.0,178.0,4.0,2.0
+334,79990,80,55.0,samsung,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,,60.0,,,,0.0,178.0,4.0,2.0
+335,66990,75,55.0,samsung,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+336,129990,85,55.0,samsung,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,,70.0,,,,0.0,178.0,4.0,3.0
+337,182990,87,65.0,samsung,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,,70.0,,,,0.0,178.0,4.0,3.0
+338,9780,52,32.0,beston,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,,,,1.5,8,0.0,178.0,2.0,3.0
+339,30990,55,43.0,haier,43in, LED TV,Full HD, 1920x1080pixels,missing,1,LED,missing,1920x1080,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+340,64999,78,55.0,vu,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,1,100.0,,3,16,0.0,178.0,4.0,2.0
+341,15999,52,32.0,oneplus,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,1,8,0.0,178.0,2.0,2.0
+342,11675,43,32.0,bpl,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,6.0,,,,0.0,178.0,3.0,2.0
+343,11999,53,32.0,impex,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,20.0,,1,8,0.0,178.0,3.0,2.0
+344,20999,68,43.0,kodak,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,40.0,,2,8,0.0,178.0,3.0,2.0
+345,7999,52,32.0,huidi,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,4.0,1,8,0.0,178.0,3.0,2.0
+346,5499,32,24.0,marq,24in, LED TV,missing,1366x768pixels,HD,0,LED,missing,1366x768,,,2,20.0,,,,0.0,178.0,2.0,2.0
+347,7449,49,32.0,candes,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,1,,0.0,178.0,2.0,2.0
+348,27999,70,50.0,thomson,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,40.0,,2,8,0.0,178.0,3.0,2.0
+349,35990,67,55.0,bpl,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,8.0,,,,0.0,178.0,3.0,1.0
+350,64999,75,55.0,lg,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,4.0,2.0
+351,46999,75,55.0,xiaomi,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,40.0,4.0,2,16,0.0,178.0,3.0,2.0
+352,41879,66,43.0,lg,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,4.0,,8,0.0,178.0,2.0,1.0
+353,124990,80,55.0,sony,55in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,3,30.0,,,,0.0,178.0,4.0,3.0
+354,46999,69,55.0,itel,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,20.0,,2,8,0.0,178.0,3.0,2.0
+355,106990,80,65.0,iffalcon,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,,2,16,0.0,178.0,3.0,2.0
+356,21990,48,32.0,samsung,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,4,40.0,,,,0.0,178.0,2.0,1.0
+357,19490,46,32.0,samsung,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,20.0,,,,0.0,178.0,2.0,1.0
+358,64990,72,50.0,samsung,50in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,4.0,2.0
+359,37999,72,50.0,oneplus,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,2,16,0.0,178.0,3.0,2.0
+360,42999,72,55.0,oneplus,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,4,30.0,,2,16,0.0,178.0,3.0,2.0
+361,9499,52,32.0,sansui,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,1,8,0.0,178.0,2.0,2.0
+362,49990,68,55.0,samsung,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,20.0,,,,0.0,178.0,3.0,1.0
+363,33990,64,43.0,samsung,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,20.0,,,,0.0,178.0,3.0,1.0
+364,29990,65,43.0,samsung,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,1.0
+365,7999,43,32.0,vw,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,20.0,,,,0.0,178.0,2.0,2.0
+366,7999,46,32.0,foxsky,32in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,0.0,2,30.0,,,,0.0,178.0,2.0,2.0
+367,25851,68,43.0,sansui,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,8,0.0,178.0,3.0,2.0
+368,18999,54,40.0,sansui,40in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,,1,8,0.0,178.0,2.0,2.0
+369,27999,72,50.0,nokia,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,48.0,,2,16,0.0,178.0,3.0,2.0
+370,108990,83,82.0,xiaomi,82in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,4,40.0,,4,64,1.0,178.0,3.0,2.0
+371,25990,66,55.0,xiaomi,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,1.5,8,0.0,178.0,3.0,2.0
+372,13490,44,32.0,lg,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,10.0,,,,0.0,178.0,2.0,1.0
+373,11499,51,32.0,thomson,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,24.0,,1,8,0.0,178.0,3.0,2.0
+374,19499,67,43.0,kodak,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,,2,8,0.0,178.0,3.0,2.0
+375,14999,46,32.0,oneplus,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,,,0.0,178.0,2.0,2.0
+376,28990,51,43.0,samsung,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,0.0,2,20.0,,,,0.0,178.0,2.0,1.0
+377,12490,29,32.0,samsung,32in,missing,missing,1366x768pixels,HD,1,LED,missing,1366x768,,,2,20.0,,,,0.0,178.0,2.0,1.0
+378,10999,52,32.0,xiaomi,32in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,12.0,4.0,1,8,0.0,178.0,2.0,2.0
+379,11999,50,32.0,realme,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,4,24.0,,1,8,0.0,178.0,3.0,2.0
+380,39999,73,55.0,xiaomi,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,2,16,0.0,178.0,3.0,2.0
+381,215999,79,98.0,redmi,98in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,4,40.0,,4,64,0.0,178.0,3.0,2.0
+382,19999,49,40.0,xiaomi,40in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,4.0,1,8,0.0,178.0,3.0,2.0
+383,29890,56,43.0,lg,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,4.0,1,4,0.0,178.0,2.0,1.0
+384,17629,52,32.0,lg,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,4.0,1,4,0.0,178.0,2.0,1.0
+385,15200,34,24.0,samsung,24in, LED TV,missing,1366x768pixels,HD,0,LED,missing,1366x768,,,2,10.0,,,,0.0,178.0,2.0,2.0
+386,199989,83,65.0,panasonic,65in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,16,1.0,178.0,3.0,2.0
+387,140989,82,55.0,panasonic,55in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,16,1.0,178.0,3.0,2.0
+388,9199,43,32.0,beethosol,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,24.0,,,,,,2.0,2.0
+389,18149,57,43.0,limeberry,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,24.0,,1,8,0.0,178.0,3.0,2.0
+390,17999,60,43.0,intex,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,3.0,2.0
+391,11490,48,32.0,sansui,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,4.0,4,0.5,,,3.0,2.0
+392,9199,44,32.0,gangnam,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,24.0,,,,,,2.0,2.0
+393,8499,43,32.0,gangnam,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,24.0,,,,,,1.0,2.0
+394,31490,54,55.0,invanter,55in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,24.0,,1,8,,,2.0,2.0
+395,22390,63,43.0,invanter,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,,1,8,,,2.0,2.0
+396,18590,52,43.0,invanter,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,24.0,4.0,1,8,,,2.0,2.0
+397,16490,48,43.0,invanter,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,24.0,,,,,,2.0,2.0
+398,11990,44,32.0,inavnter,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,,,,,2.0,2.0
+399,17490,48,43.0,invanter,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,24.0,4.0,,,,,2.0,2.0
+400,19980,45,32.0,panasonic,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,,,,,2.0,2.0
+401,18149,57,43.0,limeberry,43in, LED TV,1920x1083pixels,missing,Full HD,1,LED,missing,1920x1083,1.0,1.0,2,24.0,,1,16,0.0,178.0,2.0,2.0
+402,24990,50,50.0,invanter,50in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,24.0,,,,,,2.0,2.0
+403,27990,66,43.0,croma,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,4.0,2,16,,,3.0,2.0
+404,85999,67,75.0,iffalcon,75in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,30.0,4.0,,,,,3.0,2.0
+405,27999,70,50.0,sansui,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,16,0.0,178.0,3.0,2.0
+406,15437,47,43.0,panwood,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,,,,,,2.0,3.0
+407,8999,40,32.0,croma,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,20.0,,,,,,3.0,2.0
+408,7288,47,24.0,zytel,24in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,1,8,,,2.0,2.0
+409,35990,61,50.0,croma,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,3.0,2.0
+410,15499,50,43.0,kevin,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,,,,0.0,178.0,2.0,2.0
+411,124990,78,43.0,lg,43in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,40.0,,,,,,4.0,3.0
+412,28800,61,55.0,starshine,55in, LED TV,4K Resolution, 2160x3840pixels,Ultra HD,1,LED,4K Resolution,2160x3840,1.0,0.0,2,20.0,,,,,,3.0,2.0
+413,7590,32,32.0,croma,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,0.0,1.0,2,20.0,,,,,,2.0,2.0
+414,2914599,88,97.0,lg,97in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,,60.0,,,,,,4.0,2.0
+415,74990,67,65.0,samsung,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,3.0,1.0
+416,18599,57,43.0,aiwa,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,,,,,,2.0,2.0
+417,519990,86,77.0,lg,77in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,,40.0,,,,,,4.0,3.0
+418,91799,74,85.0,tcl,85in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,,70.0,,,,,,3.0,2.0
+419,68799,72,75.0,tcl,75in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,,70.0,,,,,,3.0,2.0
+420,50499,70,65.0,tcl,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,,70.0,,,,,,3.0,2.0
+421,36699,67,55.0,tcl,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,,70.0,,,,,,3.0,2.0
+422,226499,74,75.0,hisense,75in, Mini-LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,,50.0,,,,,,4.0,3.0
+423,126799,71,55.0,hisense,55in, Mini-LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,,50.0,,,,,,4.0,3.0
+424,171999,73,65.0,hisense,65in, Mini-LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,,50.0,,,,,,4.0,3.0
+425,49500,66,65.0,starshine,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,,20.0,,,,,,3.0,2.0
+426,29999,70,55.0,westinghouse,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,48.0,,2,8,0.0,178.0,3.0,2.0
+427,61999,72,65.0,xiaomi,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,2,8,0.0,178.0,3.0,2.0
+428,34999,70,50.0,xiaomi,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,2,8,0.0,178.0,3.0,2.0
+429,799990,87,83.0,lg,83in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,,40.0,,,,,,4.0,3.0
+430,8311799,84,89.0,samsung,89in, Mini-LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,,,,,,1.0,178.0,4.0,3.0
+431,22899,62,65.0,redmi,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,1.5,8,,,2.0,2.0
+432,24999,54,43.0,xiaomi,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,4.0,1.5,8,0.0,178.0,2.0,2.0
+433,22999,54,40.0,xiaomi,40in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,4.0,1.5,8,0.0,178.0,2.0,2.0
+434,7299,46,32.0,gangnam,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,24.0,4.0,1,8,,,2.0,2.0
+435,40990,69,55.0,impex,55in, LED TV,4K Resolution, 3840x2160pixels,missing,1,LED,4K Resolution,3840x2160,1.0,1.0,2,12.0,,2,16,,,4.0,2.0
+436,8098,47,32.0,marq,32in, LED TV,Full HD, 1920x1080pixels,missing,1,LED,missing,1920x1080,1.0,0.0,2,24.0,4.0,,,0.0,178.0,2.0,2.0
+437,85990,72,48.0,lg,48in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+438,28990,53,43.0,panasonic,43in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,1.5,16,,,3.0,2.0
+439,72990,75,65.0,panasonic,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,16,0.0,178.0,3.0,2.0
+440,194499,62,85.0,tcl,85in, QD-Mini LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,7,90.0,,4,64,0.0,,,
+441,102999,60,65.0,tcl,65in, QD-Mini LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,7,90.0,,4,64,0.0,,,
+442,137299,61,75.0,tcl,75in, QD-Mini LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,7,90.0,,4,64,0.0,,,
+443,39999,63,50.0,lloyd,50in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,3.0,2.0
+444,26999,65,55.0,huidi,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,1,8,,,3.0,2.0
+445,99999,75,74.41,hisense,74.41in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,36.0,4.0,,,0.0,178.0,3.0,2.0
+446,74999,77,75.0,sansui,75in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,32,0.0,178.0,3.0,2.0
+447,22990,65,43.0,nu,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,4.0,1.5,,0.0,178.0,3.0,2.0
+448,3199999,94,98.0,samsung,98in, QLED TV,8K Resolution, 7680x4320pixels,Ultra HD,1,QLED,8K Resolution,7680x4320,1.0,1.0,,120.0,,,,,,4.0,3.0
+449,2845999,90,97.0,lg,97in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,,60.0,,,,1.0,178.0,4.0,3.0
+450,9999,48,32.0,westinghouse,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,36.0,,1,8,,,3.0,2.0
+451,14999,52,40.0,westinghouse,40in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,36.0,,1,8,,,3.0,2.0
+452,28990,56,43.0,onida,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,,300.0,,1.5,8,,,3.0,2.0
+453,30999,62,50.0,onida,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,,,,,,3.0,2.0
+454,12999,48,32.0,onida,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,1.5,8,,,2.0,2.0
+455,89999,70,75.0,onida,75in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,,,,,,3.0,2.0
+456,8150,40,32.0,panwood,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,20.0,,,,,,2.0,2.0
+457,6887,41,24.0,panwood,24in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,10.0,,,,0.0,178.0,2.0,2.0
+458,16990,52,32.0,impex,32in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,12.0,4.0,1.5,8,,,3.0,2.0
+459,7077,32,32.0,panwood,32in, LED TV,1366x768pixels,missing,HD,0,LED,missing,1366x768,0.0,1.0,2,20.0,,,,,,2.0,2.0
+460,569990,72,85.0,sony,85in, Mini LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,,60.0,,,,,,4.0,2.0
+461,23999,65,50.0,huidi,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,1,8,,,3.0,2.0
+462,59990,74,65.0,haier,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,2,32,,,4.0,2.0
+463,26999,69,50.0,westinghouse,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,48.0,,2,8,0.0,178.0,3.0,2.0
+464,28999,66,50.0,vw,50in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,1.5,8,,,3.0,2.0
+465,337240,74,85.0,sony,85in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,20.0,,,,,,4.0,2.0
+466,10990,44,32.0,t-series,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,,,,,3.0,2.0
+467,49999,67,50.0,hisense,50in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,3.0,2.0
+468,74999,71,75.0,hisense,75in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,3.0,2.0
+469,42999,65,43.0,hisense,43in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,3.0,2.0
+470,74999,66,65.0,toshiba,65in, Mini LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,50.0,,,,,,3.0,2.0
+471,64990,64,65.0,croma,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,2.0,2.0
+472,36999,71,50.0,hisense,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,4.0,2,16,,,3.0,2.0
+473,510999,82,83.0,samsung,83in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,,40.0,,,,,,4.0,2.0
+474,18490,43,32.0,samsung,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,,,,,2.0,1.0
+475,8899,44,32.0,cenit,32in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,,,,,,2.0,2.0
+476,32999,72,55.0,kodak,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,40.0,,2,16,0.0,178.0,3.0,2.0
+477,36999,62,65.0,coocaa,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,,,,,,,,2.0,2.0
+478,45499,63,75.0,coocaa,75in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,,,,,,,,2.0,2.0
+479,22799,60,50.0,coocaa,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,,,,,,,,2.0,2.0
+480,1999999,86,98.0,sony,98in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,4,40.0,,,32,1.0,178.0,4.0,2.0
+481,357399,66,100.0,hisense,100in, Laser TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,30.0,,,,1.0,,2.0,2.0
+482,39990,66,55.0,croma,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,,,,3.0,2.0
+483,11999,41,32.0,infinix,32in, QLED TV,1366x768pixels,missing,HD,1,QLED,missing,1366x768,1.0,1.0,2,20.0,,,,,,2.0,1.0
+484,44999,65,55.0,lloyd,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,3.0,2.0
+485,29999,62,42.91,lloyd,42.91in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,3.0,2.0
+486,54999,62,55.0,toshiba,55in, Mini LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,50.0,,,,,,3.0,2.0
+487,115999,76,75.0,hisense,75in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,,,,,,,,3.0,2.0
+488,59999,69,50.0,hisense,50in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,,,,,,,,3.0,2.0
+489,43999,72,55.0,hisense,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,4.0,2,16,,,3.0,2.0
+490,105990,75,65.0,haier,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,4.0,2.0
+491,55990,68,55.0,haier,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,4.0,2.0
+492,65990,70,54.72,haier,54.72in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,4.0,2.0
+493,179999,78,86.0,sansui,86in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,,,0.0,178.0,3.0,2.0
+494,14499,51,43.0,vw,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,4.0,,,0.0,178.0,3.0,2.0
+495,259990,82,65.0,lg,65in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,40.0,,,,,,4.0,3.0
+496,127990,79,75.0,lg,75in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,1.0,178.0,3.0,2.0
+497,189990,80,55.0,lg,55in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,40.0,,,,,,4.0,3.0
+498,100990,79,70.0,lg,70in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,1.0,178.0,3.0,2.0
+499,23990,55,43.0,croma,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,4.0,1.5,8,0.0,178.0,2.0,2.0
+500,459990,82,77.0,samsung,77in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,,40.0,,,,,,4.0,2.0
+501,94999,79,75.0,acer,75in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,,40.0,,2,16,0.0,178.0,3.0,2.0
+502,446599,62,100.0,hisense,100in, Laser TV TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,0.0,,40.0,,,,,,3.0,
+503,499999,73,120.0,hisense,120in, Laser TV TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,,40.0,,,,,,3.0,2.0
+504,49499,74,50.0,limeberry,50in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,10.0,,2,16,1.0,178.0,3.0,2.0
+505,999990,86,98.0,samsung,98in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,40.0,,,,1.0,178.0,4.0,2.0
+506,46990,72,55.12,impex,55.12in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,0.0,2,12.0,,1.5,8,0.0,178.0,3.0,2.0
+507,16999,55,40.0,kodak,40in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,30.0,,1,8,0.0,178.0,3.0,2.0
+508,19499,57,43.0,kodak,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,30.0,,1,8,0.0,178.0,3.0,2.0
+509,16999,59,42.0,kodak,42in, LED TV,Full HD, 1080x1920pixels,Full HD,1,LED,missing,1080x1920,1.0,1.0,2,30.0,,2,16,0.0,178.0,3.0,2.0
+510,28999,72,50.0,kodak,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,40.0,,2,16,0.0,178.0,3.0,2.0
+511,99999,79,75.0,kodak,75in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,40.0,,2,16,0.0,178.0,3.0,2.0
+512,11999,46,32.0,kodak,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,30.0,,,,,,3.0,2.0
+513,46999,75,65.0,kodak,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,40.0,,2,16,0.0,178.0,3.0,2.0
+514,369990,80,85.0,samsung,85in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+515,70990,71,65.0,haier,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,4.0,2.0
+516,12990,50,32.0,haier,32in, LED TV,Full HD, 1920x1080pixels,HD,1,LED,missing,1920x1080,1.0,1.0,2,16.0,,,,0.0,178.0,3.0,2.0
+517,44990,67,55.0,haier,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,4.0,2.0
+518,23990,52,42.91,haier,42.91in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,16.0,,,,0.0,178.0,3.0,2.0
+519,39990,64,50.0,haier,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,4.0,2.0
+520,32990,64,43.0,haier,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,4.0,2.0
+521,13499,49,43.0,foxsky,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,0.0,2,30.0,4.0,,,0.0,178.0,2.0,2.0
+522,12900,46,32.0,ivee,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,20.0,,0.5,,0.0,178.0,2.0,2.0
+523,13700,47,32.0,ivee,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,24.0,,1,,0.0,178.0,2.0,2.0
+524,25990,52,43.0,ivee,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,,1,8,,,2.0,2.0
+525,109999,74,75.0,limeberry,75in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,20.0,4.0,2,16,0.0,178.0,3.0,2.0
+526,99990,80,75.0,tcl,75in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,,56.0,,2,16,0.0,178.0,3.0,1.0
+527,7999,47,24.0,power,24in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,20.0,,1,8,0.0,178.0,2.0,2.0
+528,104999,79,74.41,blaupunkt,74.41in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,4,60.0,,2,16,0.0,178.0,3.0,2.0
+529,49999,74,64.57,blaupunkt,64.57in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,4,60.0,,1,8,0.0,178.0,3.0,2.0
+530,29999,70,49.61,blaupunkt,49.61in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,4,60.0,,1,8,0.0,178.0,3.0,2.0
+531,19499,57,43.0,blaupunkt,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,4,48.0,,1,8,0.0,178.0,3.0,2.0
+532,17499,57,40.0,blaupunkt,40in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,4,48.0,,1,8,0.0,178.0,3.0,2.0
+533,11999,52,32.0,blaupunkt,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,4,48.0,,1,8,0.0,178.0,3.0,2.0
+534,47999,69,65.0,acer,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,,30.0,4.0,,16,,,3.0,2.0
+535,30999,69,50.0,acer,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,36.0,4.0,,16,0.0,178.0,3.0,2.0
+536,92999,81,65.0,acer,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,60.0,4.0,2,16,1.0,178.0,3.0,2.0
+537,95999,82,65.0,acer,65in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,,60.0,4.0,2,16,1.0,178.0,3.0,2.0
+538,503490,85,77.0,sony,77in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,,60.0,,,,,,4.0,2.0
+539,22999,65,43.0,thomson,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,40.0,,,,0.0,178.0,3.0,2.0
+540,27999,65,50.0,thomson,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,40.0,,,,0.0,178.0,3.0,2.0
+541,17999,51,40.0,thomson,40in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,30.0,,,,0.0,178.0,3.0,2.0
+542,11999,47,32.0,thomson,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,30.0,,,,0.0,178.0,3.0,2.0
+543,18999,52,42.0,thomson,42in, LED TV,Full HD, 1080x1920pixels,Full HD,1,LED,missing,1080x1920,1.0,1.0,2,30.0,,,,0.0,178.0,3.0,2.0
+544,12990,50,32.0,croma,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,1.5,8,0.0,178.0,2.0,2.0
+545,188399,83,65.0,lg,65in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,1.0,178.0,4.0,2.0
+546,130999,81,55.0,lg,55in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,1.0,178.0,4.0,2.0
+547,159990,76,65.0,lg,65in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+548,925999,93,88.0,lg,88in, OLED TV,8K Resolution, 7680x4320pixels,Ultra HD,1,missing,8K Resolution,7680x4320,1.0,1.0,,60.0,,,,,,4.0,3.0
+549,725999,92,77.0,lg,77in, OLED TV,8K Resolution, 7680x4320pixels,Ultra HD,1,missing,8K Resolution,7680x4320,1.0,1.0,,60.0,,,,,,4.0,3.0
+550,11790,52,32.0,sansui,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,1,8,0.0,178.0,3.0,2.0
+551,315999,71,85.0,toshiba,85in, Mini-LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,,95.0,,,,,,4.0,2.0
+552,10999,47,32.0,aiwa,32in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,0.0,2,16.0,,,,0.0,178.0,3.0,1.0
+553,146499,77,55.0,xiaomi,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,,30.0,,3,32,1.0,,2.0,2.0
+554,172900,80,65.0,samsung,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,1.0,178.0,4.0,2.0
+555,58299,76,55.0,limeberry,55in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,10.0,4.0,2,16,0.0,178.0,3.0,2.0
+556,26999,67,43.0,toshiba,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,4.0,,,0.0,178.0,3.0,2.0
+557,66990,69,55.0,samsung,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,3.0,2.0
+558,21999,54,43.0,toshiba,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,4.0,,,0.0,178.0,2.0,2.0
+559,37999,70,55.0,toshiba,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,4.0,,,0.0,178.0,3.0,2.0
+560,33999,69,50.0,toshiba,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,4.0,,,0.0,178.0,3.0,2.0
+561,299498,90,85.0,vu,85in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,,136.0,,3,16,1.0,178.0,4.0,3.0
+562,57399,53,65.0,tcl,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,0.0,2,20.0,,,,0.0,,,
+563,180099,61,85.0,tcl,85in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,0.0,2,20.0,,,,0.0,,,
+564,82000,54,55.0,telly,55in,missing,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,0.0,,,,,,,,3.0,2.0
+565,35000,65,58.0,tcl,58in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,20.0,,,,0.0,178.0,3.0,1.0
+566,21000,49,43.0,tcl,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,0.0,2,19.0,,,,0.0,178.0,2.0,1.0
+567,23000,63,43.0,tcl,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,20.0,,,,0.0,178.0,3.0,1.0
+568,115000,74,85.0,tcl,85in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,30.0,,,,0.0,178.0,3.0,1.0
+569,45000,66,65.0,tcl,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,20.0,,,,0.0,178.0,3.0,1.0
+570,29000,63,50.0,tcl,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,20.0,,,,0.0,178.0,3.0,1.0
+571,62000,69,75.0,tcl,75in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,30.0,,,,0.0,178.0,3.0,1.0
+572,16500,47,32.0,tcl,32in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,0.0,2,16.0,,,,0.0,178.0,2.0,1.0
+573,19000,49,40.0,tcl,40in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,0.0,2,19.0,,,,0.0,178.0,2.0,1.0
+574,820000,72,98.0,tcl,98in, Mini LED QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,4.0,1.0
+575,230000,68,85.0,tcl,85in, Mini LED QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,4.0,1.0
+576,115000,73,75.0,tcl,75in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,,,,,4.0,1.0
+577,180000,75,85.0,tcl,85in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,,,,,4.0,1.0
+578,65000,72,65.0,tcl,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,4.0,2,16,,,3.0,1.0
+579,106000,76,75.0,tcl,75in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,30.0,4.0,2,16,,,3.0,1.0
+580,165000,77,85.0,tcl,85in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,30.0,4.0,2,16,,,3.0,1.0
+581,49999,70,55.0,tcl,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,4.0,2,16,,,3.0,1.0
+582,7649,31,32.0,marq,32in, LED TV,missing,1366x768pixels,HD,0,LED,missing,1366x768,,,2,24.0,,,,0.0,178.0,2.0,2.0
+583,223599,77,55.0,panasonic,55in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,0.0,,150.0,,,,,,4.0,3.0
+584,314199,79,65.0,panasonic,65in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,0.0,,160.0,,,,,,4.0,3.0
+585,16499,63,43.0,huidi,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+586,45999,72,65.0,sens,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,32,0.0,178.0,3.0,2.0
+587,174990,77,75.0,panasonic,75in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,16,1.0,178.0,3.0,2.0
+588,265990,80,55.0,panasonic,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,16,1.0,178.0,3.0,2.0
+589,219990,76,55.0,panasonic,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,16,1.0,178.0,3.0,2.0
+590,319900,82,65.0,panasonic,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,16,1.0,178.0,4.0,2.0
+591,285990,81,65.0,panasonic,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,16,1.0,178.0,3.0,2.0
+592,15999,49,43.0,alt,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,,,,0.0,178.0,2.0,1.0
+593,94990,72,65.0,samsung,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,3.0,2.0
+594,32990,65,43.0,panasonic,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+595,47990,68,55.0,panasonic,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+596,102990,72,70.0,samsung,70in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,1.0
+597,16999,55,43.0,infinix,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,,1,8,0.0,178.0,2.0,2.0
+598,294990,87,65.0,samsung,65in, QLED TV,8K Resolution, 7680x4320pixels,Ultra HD,1,QLED,8K Resolution,7680x4320,1.0,1.0,,60.0,,,,0.0,178.0,4.0,3.0
+599,262490,82,65.0,samsung,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,4,70.0,,,,0.0,178.0,4.0,2.0
+600,654990,82,85.0,samsung,85in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,,60.0,,,,,,4.0,2.0
+601,439990,80,75.0,samsung,75in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,,60.0,,,,,,4.0,2.0
+602,202490,81,55.0,samsung,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,4,70.0,,,,0.0,178.0,4.0,2.0
+603,499999,52,,haier,Mini LED TV,missing,4K Resolution, 3810x2160pixels,missing,1,LED,4K Resolution,3810x2160,1.0,0.0,,,,,,0.0,,,
+604,9499,43,32.0,kodak,32in, LED TV,1366x768pixels,missing,HD,1,missing,missing,1366x768,1.0,0.0,2,20.0,,,,,,3.0,2.0
+605,15499,54,40.0,kodak,40in, LED TV,Full HD, 1920x1080pixels,Full HD,1,missing,missing,1920x1080,1.0,1.0,2,30.0,,0.5,4,0.0,178.0,3.0,2.0
+606,6999,45,24.0,kodak,24in, LED TV,1366x768pixels,missing,HD,1,missing,missing,1366x768,1.0,0.0,2,20.0,,,,0.0,178.0,2.0,2.0
+607,15999,51,32.0,qoox,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,12.0,,1.5,8,0.0,178.0,2.0,2.0
+608,14999,53,39.37,blaupunkt,39.37in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,0.0,2,40.0,,0.5,4,0.0,178.0,3.0,2.0
+609,47999,74,65.0,acer,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,2,16,0.0,178.0,3.0,2.0
+610,75999,53,65.0,samsung,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,,,,,,0.0,,,
+611,15499,50,43.0,coocaa,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,30.0,,0.5,2,0.0,178.0,2.0,1.0
+612,13999,50,32.0,dacs,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,1.5,8,,,3.0,2.0
+613,20999,57,55.0,xiaomi,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,10.0,,,,,,1.0,1.0
+614,29999,59,65.0,xiaomi,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,10.0,,,,,,1.0,1.0
+615,14990,50,40.0,karbonn,40in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,,1,8,,,2.0,2.0
+616,16490,51,43.0,karbonn,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,,1,8,,,2.0,2.0
+617,9940,51,32.0,karbonn,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,1.5,8,0.0,178.0,3.0,2.0
+618,364990,86,65.0,samsung,65in, QLED TV,8K Resolution, 7680x4320pixels,Ultra HD,1,QLED,8K Resolution,7680x4320,1.0,1.0,,70.0,,,,,,4.0,3.0
+619,28490,67,55.0,karbonn,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,8,,,3.0,2.0
+620,71990,68,65.0,samsung,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,3.0,1.0
+621,7289,34,32.0,xelectron,32in, LED TV,missing,1366x768pixels,HD,1,LED,missing,1366x768,,,2,20.0,,,,0.0,178.0,1.0,2.0
+622,5189,29,24.0,xelectron,24in, LED TV,missing,1366x768pixels,HD,1,LED,missing,1366x768,,,2,20.0,,,,0.0,178.0,1.0,2.0
+623,7599999,74,89.0,samsung,89in, Micro LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,,100.0,,,,,,6.0,3.0
+624,18999,52,43.0,motorola,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,,1,,0.0,178.0,2.0,2.0
+625,1224990,90,85.0,samsung,85in, QLED TV,8K Resolution, 7680x4320pixels,Ultra HD,1,QLED,8K Resolution,7680x4320,1.0,1.0,,90.0,,,,,,4.0,3.0
+626,157900,74,75.0,samsung,75in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,20.0,,,,0.0,178.0,3.0,1.0
+627,284990,71,75.0,samsung,75in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,3.0,2.0
+628,131990,75,65.0,samsung,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,3.0,2.0
+629,544990,78,85.0,samsung,85in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,3.0,2.0
+630,140990,76,55.0,samsung,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,,60.0,,,,,,4.0,2.0
+631,159990,77,55.0,samsung,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,,60.0,,,,,,4.0,2.0
+632,201990,79,65.0,samsung,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,,60.0,,,,,,4.0,2.0
+633,137990,76,50.0,samsung,50in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,,60.0,,,,,,4.0,2.0
+634,184990,78,65.0,samsung,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,,60.0,,,,,,4.0,2.0
+635,35999,54,32.0,xiaomi,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,10.0,,1.5,8,0.0,178.0,4.0,2.0
+636,81999,75,65.0,tcl,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,30.0,4.0,3,,1.0,,4.0,1.0
+637,66999,73,55.0,tcl,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,30.0,4.0,3,,1.0,,4.0,1.0
+638,99999,77,65.0,tcl,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,50.0,4.0,3,,1.0,,4.0,1.0
+639,125999,79,75.0,tcl,75in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,50.0,4.0,3,,1.0,,4.0,1.0
+640,174999,79,85.0,tcl,85in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,50.0,4.0,3,,1.0,,4.0,1.0
+641,35999,49,32.0,hisense,32in, QLED TV,Full HD, 1920x1080pixels,Full HD,1,QLED,missing,1920x1080,0.0,1.0,2,16.0,,,,0.0,178.0,2.0,3.0
+642,44999,51,40.0,hisense,40in, QLED TV,Full HD, 1920x1080pixels,Full HD,1,QLED,missing,1920x1080,0.0,1.0,2,16.0,,,,0.0,178.0,2.0,3.0
+643,46990,64,43.0,samsung,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,,,3.0,2.0
+644,39999,60,55.0,dacs,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,40.0,,,,,,3.0,2.0
+645,178999,84,86.0,xiaomi,86in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,,20.0,,3,32,0.0,178.0,4.0,2.0
+646,19990,42,32.0,hyundai,32in, LED TV,1366x768pixels,missing,missing,1,LED,missing,1366x768,1.0,0.0,,,,,,0.0,178.0,2.0,2.0
+647,5449,26,24.0,beethosol,24in, LED TV,missing,1366x768pixels,HD,0,LED,missing,1366x768,,,2,16.0,,,,,,1.0,1.0
+648,6990,44,23.62,candes,23.62in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,20.0,,,,0.0,178.0,2.0,2.0
+649,69990,78,65.0,candy,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,3,32,0.0,178.0,4.0,2.0
+650,36990,75,50.0,candy,50in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,2,32,1.0,178.0,4.0,2.0
+651,33990,73,55.0,candy,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,2,32,0.0,178.0,4.0,2.0
+652,30990,73,50.0,candy,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,40.0,,2,32,0.0,178.0,4.0,2.0
+653,44490,74,55.0,candy,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,2,32,0.0,178.0,4.0,2.0
+654,55590,76,65.0,candy,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,2,32,0.0,178.0,4.0,2.0
+655,49999,72,65.0,thomson,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,40.0,,1.75,8,0.0,178.0,3.0,2.0
+656,49990,75,65.0,candy,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,32,0.0,178.0,4.0,2.0
+657,25990,71,43.0,candy,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,32,0.0,178.0,4.0,2.0
+658,18990,55,43.0,candy,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,,1,8,0.0,178.0,3.0,2.0
+659,11490,51,32.0,candy,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,1,8,0.0,178.0,3.0,2.0
+660,39999,63,43.0,tcl,43in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,,,,,,,,3.0,2.0
+661,15999,52,40.0,sens,40in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,,,,0.0,178.0,2.0,2.0
+662,28999,51,50.0,itel,50in,missing,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,24.0,,,,,,2.0,2.0
+663,418099,64,100.0,toshiba,100in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,0.0,,,,,,1.0,,,
+664,89999,70,85.0,hisense,85in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,0.0,,80.0,,,,,,4.0,2.0
+665,89890,74,75.0,acer,75in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,4.0,2,16,0.0,178.0,3.0,2.0
+666,46499,71,75.0,xiaomi,75in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,25.0,,3,32,,,3.0,2.0
+667,34799,69,65.0,xiaomi,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,25.0,,3,32,,,3.0,2.0
+668,49999,63,43.0,amazon,43in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,,,,,,,,4.0,2.0
+669,15999,44,32.0,amazon,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,20.0,,,,0.0,178.0,3.0,1.0
+670,28999,61,55.0,alt,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,24.0,,1,,,,2.0,2.0
+671,599999,75,98.0,tcl,98in, QD-MiniLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,5,60.0,,4,128,,,4.0,4.0
+672,95999,69,65.0,tcl,65in, QD-LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,5,60.0,,4,64,,,4.0,4.0
+673,287999,73,75.0,tcl,75in, QD-MiniLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,5,60.0,,4,128,,,4.0,4.0
+674,383999,74,85.0,tcl,85in, QD-MiniLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,5,60.0,,4,128,,,4.0,4.0
+675,13139,41,32.0,aiwa,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,20.0,4.0,1,8,0.0,178.0,2.0,1.0
+676,6990,33,31.5,leema,31.5in, LED TV,Full HD, 1920x1080pixels,Full HD,0,LED,missing,1920x1080,,,2,10.0,,,,,,2.0,2.0
+677,42999,62,65.0,alt,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,20.0,,,,,,2.0,2.0
+678,179999,77,65.0,samsung,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,40.0,,,,,,4.0,2.0
+679,125999,75,55.0,samsung,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,40.0,,,,,,4.0,2.0
+680,107999,72,50.0,samsung,50in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,40.0,,,,,,4.0,2.0
+681,224999,76,75.0,samsung,75in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,40.0,,,,,,4.0,2.0
+682,48990,71,65.0,nu,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,4.0,1.5,,0.0,178.0,3.0,2.0
+683,15999,51,40.0,thomson,40in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,30.0,,,,0.0,178.0,3.0,2.0
+684,10999,50,32.0,power,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,1.5,8,,,3.0,2.0
+685,12400,47,32.0,sansui,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,1,8,,,2.0,2.0
+686,12999,54,40.0,westinghouse,40in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,30.0,,0.5,4,0.0,178.0,3.0,2.0
+687,6499,48,24.0,westinghouse,24in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,0.5,4,0.0,178.0,2.0,2.0
+688,664990,86,83.0,sony,83in, OLED TV,4K Resolution, 3480x2160pixels,Ultra HD,1,missing,4K Resolution,3480x2160,1.0,1.0,,60.0,,,,0.0,178.0,4.0,2.0
+689,14099,49,43.0,beethosol,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,0.0,2,24.0,,1,8,,,2.0,2.0
+690,17899,53,43.0,qva,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,0.0,2,30.0,,1,8,0.0,178.0,2.0,2.0
+691,52990,73,58.0,jvc,58in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,24.0,,2,16,0.0,178.0,4.0,2.0
+692,67490,75,65.0,jvc,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,24.0,,2,16,0.0,178.0,4.0,2.0
+693,9890,41,32.0,wybor,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,24.0,,,,0.0,178.0,2.0,2.0
+694,39990,70,65.0,bitpro,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+695,43998,68,55.0,trusense,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,24.0,,1.5,8,0.0,178.0,3.0,2.0
+696,50430,69,60.0,bitpro,60in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+697,11999,49,32.0,sens,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,24.0,,,,0.0,178.0,3.0,2.0
+698,247999,64,90.0,hisense,90in, Laser TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,30.0,,,,1.0,,2.0,2.0
+699,18699,55,42.91,limeberry,42.91in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,24.0,,1,8,0.0,178.0,2.0,2.0
+700,29990,73,55.0,aiwa,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,2,16,0.0,178.0,3.0,2.0
+701,51210,69,65.0,impex,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,,10.0,,,,,,4.0,2.0
+702,7999,49,32.0,qva,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,1,8,0.0,178.0,2.0,1.0
+703,20999,64,43.0,dyanora,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,,,0.0,178.0,3.0,2.0
+704,155999,79,75.0,tcl,75in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,,,,,,,,3.0,2.0
+705,24999,67,50.0,dyanora,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,60.0,,,,0.0,178.0,3.0,2.0
+706,19990,50,43.0,nu,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,4.0,,,,,3.0,2.0
+707,89990,74,55.0,samsung,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2.5,8,1.0,,4.0,2.0
+708,7999,31,24.0,compaq,24in, LED TV,missing,1366x768pixels,HD,0,LED,missing,1366x768,,,2,16.0,,,,,,2.0,2.0
+709,109990,77,48.0,lg,48in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,4,40.0,,2.5,8,1.0,,3.0,2.0
+710,38999,70,55.0,kodak,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,40.0,,2,16,,,3.0,2.0
+711,35999,69,50.0,kodak,50in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,40.0,,2,16,,,3.0,2.0
+712,28999,62,50.0,aiwa,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,15.0,,,,,,3.0,2.0
+713,25999,71,50.0,beston,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,1.5,8,0.0,178.0,3.0,2.0
+714,8399,51,32.0,xelectron,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,24.0,4.0,1,8,0.0,178.0,3.0,2.0
+715,149900,76,55.0,lg,55in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,,40.0,,,,,,3.0,2.0
+716,39999,64,55.0,aiwa,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,15.0,,,,,,3.0,2.0
+717,17900,39,43.0,garuda,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,0.0,,,,,,0.0,178.0,,
+718,11490,47,32.0,nu,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,,10.0,4.0,,,0.0,178.0,3.0,2.0
+719,31990,66,55.0,nu,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,,10.0,4.0,1.5,,0.0,178.0,3.0,2.0
+720,149900,76,55.0,lg,55in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,,40.0,,,,,,3.0,2.0
+721,7499,35,32.0,dyanora,32in, LED TV,missing,1366x768pixels,HD,0,LED,missing,1366x768,,,2,20.0,4.0,,,0.0,178.0,2.0,2.0
+722,8500,45,24.0,nextview,24in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,0.0,2,20.0,,,,,,2.0,2.0
+723,21999,61,43.0,aiwa,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,,,,,3.0,2.0
+724,8999,32,32.0,garuda,32in, LED TV,missing,1366x768pixels,HD,1,LED,missing,1366x768,,,,,,,,0.0,,2.0,2.0
+725,9475,52,32.0,adsun,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,1,8,0.0,178.0,2.0,2.0
+726,54990,68,50.0,lg,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+727,499990,86,77.0,samsung,77in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,,70.0,,,,,,4.0,3.0
+728,49999,71,65.0,compaq,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+729,28999,68,55.0,skytron,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,,,0.0,178.0,3.0,2.0
+730,8999,46,32.0,sens,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+731,199990,81,65.0,lg,65in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,40.0,,,,,,4.0,3.0
+732,7499,44,24.0,blaupunkt,24in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,20.0,4.0,,,0.0,178.0,2.0,2.0
+733,58990,70,55.0,croma,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,16,,,3.0,2.0
+734,22999,63,43.0,sens,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+735,54990,75,65.0,sansui,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,16,0.0,178.0,3.0,2.0
+736,25890,68,43.0,akai,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,1.5,8,0.0,178.0,3.0,2.0
+737,24999,66,50.0,sens,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+738,10999,45,32.0,sens,32in, LED TV,HD Ready, 1280x720pixels,HD,1,LED,missing,1280x720,1.0,1.0,2,20.0,,,,0.0,178.0,2.0,2.0
+739,35999,72,55.0,sens,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,4.0,2,16,0.0,178.0,3.0,2.0
+740,30999,72,55.0,sens,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,16,0.0,178.0,3.0,2.0
+741,47999,72,65.0,sens,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,,,4.0,2,16,0.0,178.0,2.0,2.0
+742,79990,71,65.0,croma,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,16,,,3.0,2.0
+743,7299,43,32.0,beethosol,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,24.0,,0.5,4,,,1.0,2.0
+744,49990,74,65.0,tcl,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,,2,16,0.0,178.0,3.0,1.0
+745,6490,26,24.0,leema,24in, LED TV,missing,1366x768pixels,HD,0,LED,missing,1366x768,,,2,10.0,,,,,,1.0,1.0
+746,5657,29,24.0,adsun,24in, LED TV,missing,1366x768pixels,HD,0,LED,missing,1366x768,,,2,20.0,,,,0.0,178.0,1.0,1.0
+747,7299,29,32.0,gangnam,32in, LED TV,missing,1366x768pixels,HD,0,LED,missing,1366x768,,,2,24.0,,,,,,2.0,2.0
+748,10900,42,32.0,gangnam,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,24.0,,,,,,2.0,2.0
+749,9899,42,32.0,starshine,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,20.0,,,,,,2.0,2.0
+750,79990,74,65.0,lg,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+751,16999,43,40.0,starshine,40in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,0.0,2,20.0,,,,,,2.0,2.0
+752,7499,28,24.0,itel,24in, LED TV,missing,1366x768pixels,HD,0,LED,missing,1366x768,,,2,16.0,,,,,,2.0,2.0
+753,54999,79,65.0,hisense,65in, LED TV,4K Resolution, 3840x2160pixels,missing,1,LED,4K Resolution,3840x2160,1.0,1.0,3,61.0,,2,16,1.0,178.0,3.0,2.0
+754,14990,49,32.0,amstrad,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,16.0,,1,8,0.0,178.0,2.0,2.0
+755,21655,50,43.0,bpl,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,18.0,,,,,,2.0,2.0
+756,13900,39,32.0,tcl,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,16.0,,,,,,2.0,1.0
+757,5999,32,24.0,vw,24in, LED TV,missing,1366x768pixels,HD,1,LED,missing,1366x768,,,2,20.0,,,,0.0,178.0,2.0,2.0
+758,7299,32,32.0,vw,32in, LED TV,missing,1366x768pixels,HD,1,LED,missing,1366x768,,,2,20.0,,,,0.0,178.0,2.0,2.0
+759,17999,50,32.0,panasonic,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,1.5,8,0.0,178.0,2.0,2.0
+760,75990,86,65.0,huawei,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,50,25.0,8.0,6,64,0.0,178.0,3.0,2.0
+761,89990,82,75.0,huawei,75in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,50.0,6.0,6,64,0.0,178.0,3.0,2.0
+762,29990,73,70.0,letv,70in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,3,32,0.0,178.0,2.0,2.0
+763,29999,64,50.0,onida,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,1.5,8,0.0,178.0,2.0,1.0
+764,24999,63,43.0,onida,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,1.5,8,0.0,178.0,2.0,1.0
+765,36990,67,55.0,tcl,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,24.0,,,,0.0,178.0,2.0,2.0
+766,33760,65,50.0,tcl,50in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,24.0,,,,0.0,178.0,2.0,2.0
+767,112990,79,55.0,lg,55in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,1.0,178.0,4.0,2.0
+768,8499,48,32.0,dyanora,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,30.0,4.0,0.5,4,0.0,178.0,2.0,2.0
+769,51999,71,65.0,sansui,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,2.0,,2,8,0.0,178.0,3.0,2.0
+770,99840,78,65.0,panasonic,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,32,0.0,178.0,3.0,2.0
+771,8993,34,32.0,intex,32in, LED TV,missing,1366x768pixels,HD,1,LED,missing,1366x768,,,2,24.0,,,,0.0,178.0,2.0,2.0
+772,118999,79,75.0,cornea,75in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,4.0,2,16,0.0,178.0,3.0,2.0
+773,18999,52,43.0,coocaa,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,4.0,,,0.0,178.0,2.0,2.0
+774,11499,43,32.0,coocaa,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,4.0,,,0.0,178.0,2.0,2.0
+775,69990,75,75.0,xiaomi,75in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,,,3,32,0.0,178.0,2.0,2.0
+776,259990,78,70.0,xiaomi,70in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,2.0,2.0
+777,8909,34,32.0,cellecor,32in, LED TV,Full HD, 1920x1080pixels,HD,0,LED,missing,1920x1080,,,2,48.0,,,,0.0,178.0,1.0,2.0
+778,20899,49,43.0,cellecor,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,0.0,2,48.0,,,,0.0,178.0,2.0,2.0
+779,10999,48,32.0,cellecor,32in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,48.0,,,,0.0,178.0,2.0,2.0
+780,11990,42,32.0,t-series,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,1.0,,,,0.0,178.0,2.0,2.0
+781,24999,68,50.0,compaq,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,1.5,8,0.0,178.0,2.0,2.0
+782,16999,48,40.0,cellecor,40in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,0.0,2,48.0,,,,0.0,178.0,2.0,2.0
+783,6399,31,24.0,cellecor,24in, LED TV,missing,1366x768pixels,HD,0,LED,missing,1366x768,,,2,40.0,,,,0.0,178.0,1.0,2.0
+784,42999,71,65.0,intex,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,1.5,8,0.0,178.0,3.0,
+785,16999,56,40.0,acer,40in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,24.0,,1.5,8,0.0,178.0,2.0,2.0
+786,34990,70,43.0,panasonic,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,16,0.0,178.0,2.0,2.0
+787,12599,52,32.0,onida,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,1.5,8,0.0,178.0,3.0,1.0
+788,21990,56,43.0,onida,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,,1.5,8,0.0,178.0,3.0,1.0
+789,40999,74,65.0,xiaomi,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,2,16,0.0,178.0,3.0,2.0
+790,59999,76,70.0,acer,70in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,,,,,,0.0,178.0,3.0,2.0
+791,29999,73,55.0,intex,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,1.5,8,0.0,178.0,3.0,2.0
+792,43950,68,43.0,lg,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+793,16898,44,40.0,smart,40in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,0.0,2,24.0,,,,0.0,178.0,1.0,2.0
+794,27399,60,50.0,smart,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,,,,0.0,178.0,2.0,2.0
+795,89999,80,75.0,power,75in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,,2,16,0.0,178.0,3.0,2.0
+796,9499,48,32.0,power,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,,,0.0,178.0,2.0,2.0
+797,10499,40,23.0,ndgo,23in, LCD TV,HD Ready, 1260x720pixels,HD,1,missing,missing,1260x720,1.0,0.0,2,20.0,,,,0.0,178.0,2.0,2.0
+798,24999,60,43.0,ndgo,43in, LED TV,4K Resolution, 3860x2160pixels,Ultra HD,1,LED,4K Resolution,3860x2160,1.0,1.0,2,30.0,,,,0.0,178.0,2.0,2.0
+799,12665,42,40.0,leema,40in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,28.0,,,,0.0,178.0,1.0,2.0
+800,21990,47,43.0,feltron,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,0.0,2,20.0,,1,,0.0,178.0,2.0,2.0
+801,18990,64,43.0,xelectron,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,24.0,4.0,1,8,0.0,178.0,3.0,2.0
+802,51999,73,65.0,iffalcon,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,19.0,4.0,2,16,0.0,178.0,3.0,1.0
+803,7999,43,32.0,vw,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,20.0,,,,0.0,178.0,2.0,2.0
+804,8499,49,32.0,compaq,32in, LED TV,1366x768pixels,missing,missing,1,LED,missing,1366x768,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+805,17999,60,43.0,compaq,43in, LED TV,4K Resolution, 3840x2160pixels,missing,1,LED,4K Resolution,3840x2160,1.0,0.0,2,20.0,,,,0.0,178.0,3.0,2.0
+806,94990,64,70.0,lg,70in, LED TV,4K Resolution, 3840x2160pixels,missing,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,,
+807,36999,63,55.0,compaq,55in, LED TV,4K Resolution, 3840x2160pixels,missing,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,,,,0.0,178.0,3.0,2.0
+808,31999,61,50.0,compaq,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,,,,0.0,178.0,3.0,2.0
+809,17999,60,43.0,skytron,43in, LED TV,4K Resolution, 3840x2160pixels,missing,1,LED,4K Resolution,3840x2160,,,2,24.0,,1,8,0.0,180.0,3.0,2.0
+810,9799,50,32.0,skytron,32in, LED TV,Full HD, 1920x1080pixels,missing,1,LED,missing,1920x1080,1.0,0.0,2,24.0,,1,8,0.0,180.0,3.0,2.0
+811,37999,68,55.0,hisense,55in, LED TV,4K Resolution, 3840x2160pixels,missing,1,LED,4K Resolution,3840x2160,1.0,1.0,6,102.0,,2,16,0.0,178.0,,2.0
+812,14990,47,40.0,nvy,40in, LED TV,Full HD, 1920x1080pixels,missing,1,LED,missing,1920x1080,1.0,0.0,2,20.0,4.0,1,,0.0,178.0,2.0,2.0
+813,7699,43,32.0,huidi,32in, LED TV,1366x768pixels,missing,missing,1,LED,missing,1366x768,1.0,1.0,2,20.0,,0.5,4,0.0,178.0,1.0,2.0
+814,24999,67,50.0,infinix,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,24.0,,1.5,16,0.0,178.0,3.0,2.0
+815,14956,47,43.0,leema,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,28.0,,,,0.0,178.0,1.0,2.0
+816,9899,45,24.0,hyundai,24in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,40.0,,0.5,4,0.0,178.0,2.0,2.0
+817,7899,41,31.5,feltron,31.5in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,0.5,,0.0,178.0,1.0,2.0
+818,5999,32,24.0,marq,24in, LED TV,missing,1366x768pixels,HD,0,LED,missing,1366x768,,,2,24.0,,,,0.0,178.0,2.0,2.0
+819,82480,51,55.0,sony,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,0.0,1.0,2,10.0,,,16,0.0,178.0,,
+820,29999,71,50.0,iffalcon,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,4.0,2,16,0.0,178.0,3.0,1.0
+821,139990,63,74.41,samsung,74.41in, LED TV,4K Resolution, 840x2160pixels,Ultra HD,1,LED,4K Resolution,840x2160,1.0,0.0,2,20.0,,,,0.0,178.0,3.0,2.0
+822,31999,74,50.0,acer,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,60.0,,2,16,0.0,178.0,3.0,2.0
+823,26999,73,50.0,power,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,,2,16,0.0,178.0,3.0,2.0
+824,189990,76,65.0,lg,65in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,0.0,,40.0,,,,,,4.0,3.0
+825,41999,70,55.0,blaupunkt,55in, QLED TV,4K Resolution, 3840x2160pixels,missing,1,QLED,4K Resolution,3840x2160,1.0,0.0,4,60.0,,,16,0.0,178.0,3.0,2.0
+826,12999,49,32.0,acer,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,40.0,,1.5,8,0.0,178.0,2.0,2.0
+827,249990,83,65.0,lg,65in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,60.0,,,,,,4.0,3.0
+828,61999,73,65.0,blaupunkt,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,0.0,4,60.0,,,16,0.0,178.0,3.0,2.0
+829,169990,84,65.0,samsung,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,4,60.0,,,,0.0,178.0,4.0,2.0
+830,31999,65,50.0,kodak,50in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,40.0,,,16,0.0,178.0,3.0,2.0
+831,36999,71,50.0,blaupunkt,50in, QLED TV,4K Resolution, 3840x2160pixels,missing,1,QLED,4K Resolution,3840x2160,1.0,0.0,4,60.0,,,16,0.0,178.0,3.0,2.0
+832,34999,73,50.0,hisense,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,6,102.0,,2,16,0.0,178.0,3.0,2.0
+833,37999,74,55.0,hisense,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,6,102.0,,2,16,0.0,178.0,3.0,2.0
+834,20500,41,32.0,samsung,32in, LED TV,366x768pixels,missing,missing,1,LED,missing,366x768,1.0,1.0,2,20.0,,,,0.0,178.0,2.0,1.0
+835,13835,26,24.0,lg,24in, LED TV,missing,1366x768pixels,HD,0,LED,missing,1366x768,,,2,10.0,,,,0.0,8.0,1.0,1.0
+836,40500,70,50.0,philips,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,8,4,0.0,178.0,4.0,2.0
+837,38000,66,55.0,kodak,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,40.0,,,16,0.0,178.0,3.0,2.0
+838,55999,69,65.0,kodak,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,40.0,,,16,0.0,178.0,3.0,2.0
+839,64495,69,55.0,panasonic,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,,0.0,178.0,3.0,2.0
+840,23740,53,50.0,leema,50in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,28.0,,1,8,0.0,178.0,2.0,2.0
+841,79999,64,65.0,hisense,65in, LED TV,4K Resolution, 3480x2160pixels,Ultra HD,1,LED,4K Resolution,3480x2160,1.0,1.0,,25.0,,4,,0.0,178.0,,
+842,94890,77,48.0,lg,48in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,4.0,3.0
+843,79999,73,65.0,lg,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+844,35999,76,55.0,acer,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,60.0,,2,16,0.0,178.0,3.0,2.0
+845,49999,73,65.0,coocaa,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,2,16,0.0,178.0,3.0,2.0
+846,15000,47,32.0,lloyd,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,20.0,,,,0.0,178.0,3.0,2.0
+847,14999,54,32.0,acer,32in, LED TV,1399x768pixels,missing,HD,1,LED,missing,1399x768,1.0,1.0,2,40.0,,1.5,8,0.0,178.0,3.0,2.0
+848,64999,77,65.0,acer,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,50.0,,2,16,0.0,178.0,3.0,2.0
+849,39999,75,55.0,acer,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,60.0,,2,16,0.0,178.0,3.0,2.0
+850,33990,67,50.0,croma,50in, LED TV,4K Resolution, 3840x2160pixels,missing,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,1.5,8,0.0,178.0,3.0,
+851,38990,70,55.0,croma,55in, LED TV,4K Resolution, 3840x2160pixels,missing,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,8,0.0,178.0,3.0,2.0
+852,48990,68,55.0,samsung,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,1.0
+853,29990,69,43.0,croma,43in, LED TV,4K Resolution, 3840x2160pixels,missing,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,1.5,8,0.0,178.0,3.0,2.0
+854,72999,60,55.0,zebronics,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,1.5,8,0.0,178.0,,
+855,97990,76,65.0,lg,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,4.0,,,0.0,178.0,3.0,2.0
+856,28899,51,40.0,panasonic,40in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,0.0,,16.0,,1.5,8,,,2.0,2.0
+857,30120,52,43.0,panasonic,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,0.0,,16.0,,1.5,8,,,2.0,2.0
+858,55999,78,65.0,vu,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,5,104.0,,2,16,0.0,178.0,3.0,2.0
+859,36999,72,50.0,thomson,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,40.0,,1,16,0.0,178.0,3.0,2.0
+860,59999,75,65.0,thomson,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,40.0,,1,16,0.0,178.0,3.0,2.0
+861,40999,73,55.0,thomson,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,40.0,,1,16,0.0,178.0,3.0,2.0
+862,89999,78,42.0,lg,42in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,1.0,178.0,4.0,3.0
+863,319990,83,85.0,sony,85in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,4.0,2.0
+864,57790,70,50.0,sony,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+865,74990,70,55.0,lg,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+866,24990,56,43.0,croma,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,,1,8,0.0,178.0,2.0,2.0
+867,513990,84,85.0,sony,85in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,16,0.0,178.0,4.0,2.0
+868,38990,71,43.0,lg,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,1.5,8,0.0,178.0,3.0,2.0
+869,33999,65,50.0,salora,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,16.0,,1,,0.0,178.0,3.0,2.0
+870,179990,76,55.0,iffalcon,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,50.0,,3,32,0.0,178.0,4.0,2.0
+871,65990,73,65.0,lg,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,1.5,8,0.0,178.0,3.0,1.0
+872,6399,32,24.0,cellecor,24in, LED TV,1366x768pixels,missing,HD,0,LED,missing,1366x768,1.0,0.0,2,20.0,,,,,,1.0,1.0
+873,10999,43,32.0,cellecor,32in, LED TV,1366x768pixels,missing,Full HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,,,0.0,178.0,2.0,2.0
+874,10499,49,32.0,iffalcon,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,16.0,,1,8,0.0,178.0,2.0,1.0
+875,34990,69,43.0,lg,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,1.5,8,0.0,178.0,3.0,2.0
+876,434990,86,77.0,lg,77in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,4.0,3.0
+877,99990,80,48.0,lg,48in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,4.0,3.0
+878,16199,46,40.0,cellecor,40in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,0.0,2,20.0,,,,0.0,178.0,2.0,2.0
+879,133990,80,55.0,lg,55in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,4.0,3.0
+880,65402,72,70.0,sansui,70in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,2.0,,2,32,0.0,178.0,3.0,2.0
+881,42999,71,55.0,vu,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,4,40.0,4.0,2,16,0.0,178.0,4.0,2.0
+882,413990,84,77.0,sony,77in, OLED TV,4K Resolution, 3480x2160pixels,Ultra HD,1,missing,4K Resolution,3480x2160,1.0,1.0,5,50.0,,,16,0.0,178.0,4.0,2.0
+883,46999,72,55.0,toshiba,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,3,49.0,,2,16,0.0,178.0,3.0,2.0
+884,32999,69,50.0,toshiba,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,,2,16,0.0,178.0,3.0,2.0
+885,69999,75,65.0,toshiba,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,3,49.0,4.0,2,16,0.0,178.0,3.0,2.0
+886,9999,47,32.0,hyundai,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,1,8,0.0,178.0,2.0,2.0
+887,8940,51,32.0,karbonn,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,1,8,0.0,178.0,2.0,2.0
+888,23999,69,43.0,coocaa,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,2,16,0.0,178.0,3.0,2.0
+889,7990,34,32.0,nvy,32in, LED TV,1366x768pixels,missing,HD,0,LED,missing,1366x768,0.0,1.0,2,20.0,,,,0.0,178.0,2.0,2.0
+890,56990,66,55.0,lg,55in, LED TV,4K Resolution, 3840x2160pixels,missing,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,2.0,2.0
+891,37999,64,55.0,toshiba,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,,,,0.0,178.0,3.0,2.0
+892,7999,47,32.0,kevin,32in, LED TV,1366x768pixels,missing,missing,1,LED,missing,1366x768,1.0,1.0,2,20.0,,0.5,4,0.0,178.0,2.0,2.0
+893,32999,71,55.0,coocaa,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,2,16,0.0,178.0,3.0,2.0
+894,30499,63,50.0,hisense,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+895,27999,61,43.0,toshiba,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,,,,0.0,178.0,3.0,2.0
+896,99999,70,75.0,hisense,75in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,36.0,,,,0.0,178.0,3.0,2.0
+897,6690,33,24.0,karbon,24in, LED TV,1366x768pixels,missing,HD,0,LED,missing,1366x768,0.0,1.0,2,20.0,,,,0.0,178.0,2.0,2.0
+898,34999,68,55.0,hisense,55in, LED TV,4K Resolution, 3480x2160pixels,Ultra HD,1,LED,4K Resolution,3480x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+899,55490,77,65.0,xiaomi,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,25.0,,3,32,0.0,178.0,3.0,2.0
+900,44990,76,55.0,xiaomi,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,25.0,,3,32,0.0,178.0,3.0,2.0
+901,19499,44,32.0,lg,32in, LED TV,1366x768pixels,missing,Full HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,,,0.0,178.0,2.0,1.0
+902,38990,61,50.0,tcl,50in, LED TV,4K Resolution, 3840x2160pixels,missing,1,LED,4K Resolution,3840x2160,1.0,0.0,2,30.0,,,,0.0,178.0,3.0,1.0
+903,139990,79,65.0,tcl,65in, LED TV,4K Resolution, 3840x2160pixels,missing,1,QLED,4K Resolution,3840x2160,1.0,1.0,,60.0,,,,0.0,178.0,4.0,2.0
+904,69990,67,65.0,tcl,65in, LED TV,4K Resolution, 3480x2160pixels,missing,1,QLED,4K Resolution,3480x2160,1.0,1.0,2,30.0,,,,0.0,178.0,3.0,2.0
+905,149990,73,75.0,tcl,75in, LED TV,4K Resolution, 3480x2160pixels,Ultra HD,1,QLED,4K Resolution,3480x2160,1.0,1.0,2,30.0,,,,0.0,178.0,3.0,2.0
+906,65990,65,65.0,tcl,65in, LED TV,4K Resolution, 3840x2160pixels,missing,1,LED,4K Resolution,3840x2160,1.0,0.0,2,30.0,,,,0.0,178.0,3.0,1.0
+907,33990,52,43.0,panasonic,43in, LED TV,Full HD, 1920x1080pixels,missing,1,LED,missing,1920x1080,1.0,1.0,2,20.0,,,,0.0,178.0,2.0,2.0
+908,7690,37,32.0,karbon,32in, LED TV,missing,1366x768pixels,HD,0,LED,missing,1366x768,,,2,20.0,,,,0.0,178.0,2.0,2.0
+909,54990,65,55.0,tcl,55in, QLED TV,4K Resolution, 3480x2160pixels,Ultra HD,1,QLED,4K Resolution,3480x2160,1.0,1.0,2,30.0,,,,0.0,178.0,3.0,2.0
+910,99990,80,55.0,tcl,55in, LED TV,4K Resolution, 3480x2160pixels,Ultra HD,1,LED,4K Resolution,3480x2160,1.0,1.0,,60.0,,3,32,0.0,178.0,4.0,2.0
+911,149990,73,65.0,lg,65in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+912,89990,70,55.0,lg,55in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+913,14499,51,40.0,coocaa,40in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,30.0,4.0,0.5,4,0.0,178.0,2.0,1.0
+914,27990,67,43.0,croma,43in, LED TV,4K Resolution, 3840x2160pixels,missing,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,8,0.0,178.0,3.0,2.0
+915,45990,69,55.0,hisense,55in, LED TV,4K Resolution, 3480x2160pixels,Ultra HD,1,missing,4K Resolution,3480x2160,1.0,1.0,2,24.0,,,,0.0,178.0,4.0,2.0
+916,264990,89,65.0,samsung,65in, QLED TV,8K Resolution, 7680x4320pixels,Ultra HD,1,QLED,8K Resolution,7680x4320,1.0,1.0,4,60.0,,,,1.0,178.0,4.0,3.0
+917,18999,58,43.0,candy,43in, LED TV,Full HD, 1920x1080pixels,missing,1,LED,missing,1920x1080,1.0,1.0,2,20.0,,,32,0.0,178.0,3.0,2.0
+918,19999,49,43.0,vu,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,4.0,,,0.0,178.0,2.0,2.0
+919,6849,44,24.02,dyanora,24.02in, LED TV,1366x768pixels,missing,missing,1,LED,missing,1366x768,1.0,1.0,2,20.0,,0.5,4,0.0,178.0,2.0,2.0
+920,25499,71,50.0,westinghouse,50in, LED TV,4K Resolution, 3840x2160pixels,missing,1,LED,4K Resolution,3840x2160,1.0,1.0,2,40.0,,2,8,0.0,178.0,3.0,2.0
+921,7499,47,32.0,westinghouse,32in, LED TV,1366x768pixels,missing,missing,1,LED,missing,1366x768,1.0,1.0,2,20.0,,1,8,0.0,178.0,2.0,
+922,74990,80,55.0,vu,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,4,100.0,,3,16,0.0,178.0,4.0,2.0
+923,34990,55,43.0,toshiba,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,missing,missing,1920x1080,1.0,1.0,2,20.0,,1,8,0.0,178.0,2.0,2.0
+924,13999,53,32.0,ndgo,32in, LED TV,Full HD, 1920x1080pixels,missing,1,LED,missing,1920x1080,1.0,0.0,2,30.0,,1,8,0.0,178.0,2.0,2.0
+925,15990,49,32.0,lg,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,1,8,0.0,178.0,2.0,1.0
+926,39990,71,43.0,panasonic,43in, LED TV,4K Resolution, 3840x2160pixels,missing,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,2,16,0.0,178.0,3.0,2.0
+927,10490,46,31.5,sansui,31.5in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,0.5,4,0.0,178.0,2.0,1.0
+928,69999,73,50.0,sony,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,16,0.0,178.0,4.0,2.0
+929,72990,70,50.0,samsung,50in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,4.0,2.0
+930,65999,68,50.0,sony,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,30.0,,,16,0.0,178.0,3.0,2.0
+931,90990,78,55.0,samsung,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,4,40.0,,,,0.0,178.0,4.0,2.0
+932,42999,70,55.0,lloyd,55in, LED TV,4K Resolution, 3840x2160pixels,missing,1,LED,4K Resolution,3840x2160,1.0,0.0,2,20.0,,,,0.0,178.0,3.0,2.0
+933,17590,48,32.0,lg,32in, LED TV,1366x768pixels,missing,missing,1,LED,missing,1366x768,1.0,1.0,2,20.0,,,,0.0,178.0,2.0,1.0
+934,33990,62,55.0,croma,55in, LED TV,4K Resolution, 3480x2160pixels,missing,1,LED,4K Resolution,3480x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+935,28990,62,50.0,croma,50in, LED TV,4K Resolution, 3840x2160pixels,missing,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,2.0,3.0
+936,13490,49,32.0,hyundai,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,16.0,4.0,1,8,0.0,178.0,2.0,2.0
+937,11490,49,32.0,hyundai,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,16.0,4.0,1,8,0.0,178.0,2.0,2.0
+938,9999,49,32.0,hyundai,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,4.0,1.5,8,0.0,178.0,3.0,2.0
+939,20999,52,43.0,hyundai,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,16.0,4.0,1,8,0.0,178.0,2.0,2.0
+940,22990,69,43.0,hyundai,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,16.0,4.0,1.5,8,0.0,178.0,3.0,2.0
+941,7999,34,32.0,hyundai,32in, LED TV,missing,1366x768pixels,HD,0,LED,missing,1366x768,,,2,16.0,,,,0.0,178.0,2.0,2.0
+942,26999,68,50.0,hyundai,50in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,16.0,4.0,1.5,8,0.0,178.0,3.0,2.0
+943,58990,71,43.0,samsung,43in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,0.0,2,20.0,,,,0.0,178.0,4.0,2.0
+944,124990,81,65.0,samsung,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,4.0,2.0
+945,33000,58,43.0,motorola,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,24.0,,2,8,0.0,178.0,2.0,2.0
+946,99999,80,55.0,xiaomi,55in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,8,30.0,4.0,3,32,0.0,178.0,3.0,2.0
+947,389990,83,75.0,samsung,75in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,4.2.2,60.0,,,,0.0,178.0,4.0,2.0
+948,21999,57,43.0,realme,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,4,24.0,4.0,1,8,0.0,178.0,3.0,2.0
+949,117999,81,75.0,samsung,75in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+950,57000,74,55.0,samsung,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+951,89990,79,65.0,samsung,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+952,64990,69,55.0,samsung,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+953,102990,74,65.0,samsung,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,,,,,,0.0,178.0,3.0,2.0
+954,64990,73,50.0,samsung,50in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+955,119990,79,65.0,samsung,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+956,99899,79,50.0,samsung,50in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,,40.0,,,,0.0,178.0,4.0,2.0
+957,42490,65,43.0,samsung,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+958,130990,82,65.0,samsung,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,,60.0,,,,0.0,178.0,4.0,2.0
+959,674990,93,75.0,samsung,75in, QLED TV,8K Resolution, 7680x4320pixels,Ultra HD,1,QLED,8K Resolution,7680x4320,1.0,1.0,,70.0,,,,1.0,178.0,4.0,3.0
+960,69990,66,50.0,samsung,50in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,0.0,4,40.0,,,,0.0,178.0,4.0,2.0
+961,54990,71,43.0,samsung,43in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+962,159990,84,65.0,samsung,65in, QLED TV,4K Resolution, 3840x2160pixels,missing,1,QLED,4K Resolution,3840x2160,1.0,1.0,,60.0,,,,0.0,178.0,4.0,2.0
+963,104990,82,55.0,samsung,55in, QLED TV,4K Resolution, 3840x2160pixels,missing,1,QLED,4K Resolution,3840x2160,1.0,1.0,,60.0,,,,0.0,178.0,4.0,2.0
+964,320890,90,65.0,samsung,65in, QLED TV,8K Resolution, 7680x4320pixels,Ultra HD,1,QLED,8K Resolution,7680x4320,1.0,1.0,,70.0,,,,1.0,178.0,4.0,3.0
+965,130990,84,55.0,samsung,55in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,,60.0,,,,0.0,178.0,4.0,3.0
+966,166990,84,65.0,samsung,65in, QLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,,60.0,,,,0.0,178.0,4.0,2.0
+967,189990,72,75.0,tcl,75in, miniLED TV,4K Resolution, 3840x2160pixels,missing,1,LED,4K Resolution,3840x2160,1.0,1.0,2,60.0,,,,0.0,178.0,4.0,1.0
+968,11499,45,32.0,onida,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,20.0,,,,0.0,178.0,2.0,2.0
+969,19999,53,40.0,tcl,40in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,,,,0.0,178.0,2.0,1.0
+970,21427,69,43.0,beston,43in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,1.5,8,0.0,178.0,2.0,3.0
+971,20499,57,43.0,beston,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,,,,,,0.0,178.0,2.0,3.0
+972,32999,71,55.0,beston,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,30.0,,1.5,8,0.0,178.0,2.0,3.0
+973,29999,55,43.0,haier,43in, LED TV,Full HD, 1920x1080pixels,missing,1,LED,missing,1920x1080,1.0,1.0,2,20.0,,,,0.0,178.0,3.0,2.0
+974,25990,35,32.0,haier,32in, LED TV,missing,1366x768pixels,HD,0,LED,missing,1366x768,,,2,16.0,,,,0.0,178.0,3.0,1.0
+975,36999,66,55.0,onida,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,10.0,,,,0.0,178.0,3.0,2.0
+976,60990,65,54.72,panasonic,54.72in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,,,,,0.0,178.0,3.0,2.0
+977,23899,51,40.0,adsun,40in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,4.0,1,8,0.0,178.0,2.0,2.0
+978,8889,32,32.0,compaq,32in, LED TV,missing,1366x768pixels,HD,0,LED,missing,1366x768,,,2,20.0,,,,0.0,178.0,2.0,2.0
+979,239990,81,65.0,haier,65in, OLED TV,4K Resolution, 3840x2160pixels,missing,1,missing,4K Resolution,3840x2160,1.0,1.0,2,30.0,,,,0.0,178.0,3.0,2.0
+980,9999,53,32.0,infinix,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,1,8,0.0,178.0,3.0,2.0
+981,21999,55,43.0,infinix,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,4,36.0,,1,8,0.0,178.0,3.0,2.0
+982,24990,45,32.0,hisense,32in, LED TV,1366x768pixels,missing,missing,1,LED,missing,1366x768,1.0,1.0,2,20.0,,,,0.0,178.0,2.0,2.0
+983,129999,83,75.0,vu,75in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,1,100.0,,3,16,0.0,178.0,4.0,2.0
+984,79999,81,65.0,vu,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,QLED,4K Resolution,3840x2160,1.0,1.0,1,100.0,,3,16,0.0,178.0,4.0,2.0
+985,135990,74,75.0,samsung,75in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,20.0,,,,0.0,178.0,3.0,1.0
+986,1574000,87,98.0,samsung,98in, QLED TV,4K Resolution, 3840x2160pixels,missing,1,LED,4K Resolution,3840x2160,1.0,1.0,4,60.0,,,,0.0,178.0,4.0,2.0
+987,19999,53,40.0,infinix,40in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,4,36.0,,,,0.0,170.0,3.0,2.0
+988,8500,44,32.0,adsun,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,4.0,1,8,,,2.0,2.0
+989,11490,49,32.0,akai,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,1,8,0.0,178.0,2.0,2.0
+990,16990,56,43.0,akai,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,0.0,,20.0,,1,8,0.0,178.0,3.0,2.0
+991,19490,54,43.0,vg,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,24.0,4.0,1,8,0.0,178.0,2.0,2.0
+992,10890,46,32.0,sansui,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,4.0,,,0.0,178.0,2.0,2.0
+993,6990,34,24.0,sansui,24in, LED TV,missing,1366x768pixels,missing,0,LED,missing,1366x768,,,2,20.0,4.0,,,0.0,178.0,2.0,2.0
+994,59800,68,65.0,bpl,65in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,0.0,2,,,,,0.0,178.0,3.0,2.0
+995,28999,71,49.61,compaq,49.61in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,,2,16,0.0,178.0,3.0,2.0
+996,36999,73,57.48,compaq,57.48in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,,2,16,0.0,178.0,3.0,2.0
+997,18999,59,40.0,compaq,40in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,24.0,,1.5,8,0.0,178.0,3.0,2.0
+998,12999,52,32.0,compaq,32in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,24.0,,1.5,8,0.0,178.0,3.0,2.0
+999,20000,45,31.5,vu,31.5in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,20.0,,,,0.0,178.0,2.0,2.0
+1000,24999,57,43.0,oneplus,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,,1,8,0.0,178.0,2.0,2.0
+1001,10990,46,31.5,jvc,31.5in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,0.0,2,12.0,,,,0.0,178.0,2.0,2.0
+1002,13987,33,32.0,tcl,32in, LED TV,missing,1366x768pixels,HD,0,LED,missing,1366x768,,,2,16.0,,,,0.0,178.0,2.0,1.0
+1003,10490,50,31.5,jvc,31.5in, LED TV,1366x768pixels,missing,HD,1,LED,missing,1366x768,1.0,1.0,2,12.0,4.0,1,,0.0,178.0,2.0,2.0
+1004,17999,51,40.0,akai,40in, LED TV,1366x768pixels,missing,missing,1,LED,missing,1366x768,1.0,1.0,2,20.0,,1,8,0.0,178.0,2.0,2.0
+1005,20999,56,43.0,akai,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,0.0,,20.0,,1,8,0.0,178.0,3.0,2.0
+1006,17999,54,43.0,coocaa,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,4.0,1,8,0.0,178.0,2.0,2.0
+1007,7690,31,24.0,akai,24in, LED TV,missing,1366x768pixels,missing,0,LED,missing,1366x768,,,2,20.0,,,,0.0,170.0,1.0,1.0
+1008,599999,79,42.0,sony,42in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,0.0,,,,,,0.0,178.0,3.0,2.0
+1009,1499999,76,75.0,sony,75in, Mini LED TV,8K Resolution, 7680x4320pixels,Ultra HD,1,LED,8K Resolution,7680x4320,1.0,1.0,,,,,,0.0,178.0,4.0,3.0
+1010,233990,75,75.0,sony,75in, Full Array LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,,,,,,0.0,178.0,3.0,2.0
+1011,236899,85,65.0,sony,65in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,5,50.0,,,16,0.0,178.0,4.0,2.0
+1012,299990,83,65.0,sony,65in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,0.0,,,,,,0.0,178.0,3.0,2.0
+1013,34990,72,55.0,iffalcon,55in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,24.0,,2,16,0.0,178.0,3.0,1.0
+1014,18999,52,43.0,iffalcon,43in, LED TV,Full HD, 1920x1080pixels,Full HD,1,LED,missing,1920x1080,1.0,1.0,2,20.0,4.0,1,8,0.0,178.0,2.0,1.0
+1015,49999,72,70.0,xiaomi,70in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,20.0,,1.5,8,0.0,178.0,3.0,2.0
+1016,42999,72,55.0,ndgo,55in, LED TV,4K Resolution, 9840x2160pixels,Ultra HD,1,LED,4K Resolution,9840x2160,1.0,0.0,2,30.0,,2,16,0.0,178.0,1.0,3.0
+1017,634999,86,65.0,lg,65in, OLED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,missing,4K Resolution,3840x2160,1.0,1.0,2,80.0,,,,0.0,178.0,4.0,3.0
+1018,29999,69,54.72,kodak,54.72in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,40.0,,2,8,0.0,178.0,3.0,2.0
+1019,27999,68,49.61,kodak,49.61in, LED TV,4K Resolution, 3840x2160pixels,Ultra HD,1,LED,4K Resolution,3840x2160,1.0,1.0,2,40.0,,2,8,0.0,178.0,3.0,2.0

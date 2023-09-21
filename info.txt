@@ -1,0 +1,4 @@
+columns to be dropped because null values > 53% 
+1. processor core
+2. processor ram
+3. processor inbuilt storage
