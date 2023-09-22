@@ -1,5 +1,5 @@
 # TV-data-prep-and-EDA
-This is a project I worked on to practice my skills around web scraping, data preprocessing, analysis and EDA. I know working on data about TVs is not super exciting but it was slightly outside my comfort zone because I had zero idea about TVs and electronics, in general. So, I decided to scrape this data just to enhance my research skills on how to extract useful features and enhance my GK in the process. Now that I am done with this project, I can say that this didn't disappoint.
+This is a project I worked on to practice my skills around web scraping, data preprocessing, analysis and EDA. I know working on data about TVs is not super exciting but it was slightly outside my comfort zone because I had zero idea about TVs and electronics, in general. So, I decided to scrape this data just to enhance my research skills on how to extract useful features from messy data about something I am not super invested in and enhance my GK in the process. Now that I am done with this project, I can say that this didn't disappoint.
 
 Here's a rough outline:
 1. First off, I scraped data about TVs from www.smartprix.com. It is a dynamically loading website so, I used selenium to scrape it.
